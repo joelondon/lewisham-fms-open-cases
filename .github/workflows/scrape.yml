@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Fetch latest data
         run: |-
-          curl https://www.fixmystreet.com/open311/v2/requests.json?jurisdiction_id=fixmystreet&status=open&agency_responsible=2492 | jq .service_requests > fixmystreet-open-cases.json
+          curl https://www.fixmystreet.com/open311/v2/requests.json?jurisdiction_id=fixmystreet&status=open&agency_responsible=2492 | jq . > fixmystreet-open-cases.json
       # - name: Save as csv
       #   run: |-
       #     deno run --allow-read --allow-write --allow-run --unstable postprocess.ts
