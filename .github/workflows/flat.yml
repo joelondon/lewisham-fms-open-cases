@@ -18,7 +18,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - run: |-
-        cat fixmystreet-open-cases.json | deno run ./jq.js . > fixmystreet-open-cases.json
+          cat fixmystreet-open-cases.json | deno run ./jq.js . > fixmystreet-open-cases.json
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
