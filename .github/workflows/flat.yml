@@ -23,5 +23,3 @@ jobs:
           http_url: https://www.fixmystreet.com/open311/v2/requests.json?jurisdiction_id=fixmystreet&status=open&agency_responsible=2492
           downloaded_filename: fixmystreet-open-cases.json
           postprocess: postprocess.ts
-      - run: |-
-          cat fixmystreet-open-cases.json | deno run ./jq.js . > fixmystreet-open-cases.json
