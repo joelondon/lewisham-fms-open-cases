@@ -5,8 +5,8 @@
 
 // // data.unshift(header)
 
-// // CSV
-// import { exists} from "https://deno.land/std/fs/mod.ts";
+// // WRITE CSV
+// import {exists} from "https://deno.land/std/fs/mod.ts";
 // const filename = "fixmystreet-open-cases.csv"
 // exists(filename).then((result) => Deno.truncate(filename));
 // import {CsvFile} from "https://deno.land/x/csv_file/mod.ts";
@@ -16,16 +16,30 @@
 //     await csv.writeRecord(Object.values(el).map(el => String(el)))
 // }
 // csv.close();
-// install requirements with pip
-const pip_install = Deno.run({
-    cmd: ['python', '-m', 'pip', 'install', '-r', 'requirements.txt'],
-});
 
-await pip_install.status();
+// import safeEval from 'https://raw.githubusercontent.com/deepakshrma/deno-by-example/master/examples/safe_eval.ts'
+import safeEval from './safe_eval.ts'
+const response = await Deno.readTextFile('fixmystreet-open-cases.json')
+try {
+  const ret = safeEval('.service_requests', JSON.parse(response))
+  console.log(JSON.stringify(ret))
+  await Deno.writeTextFile(
+    'fixmystreet-open-cases.json',
+    JSON.stringify(ret, null, '  ')
+  )
+} catch (err) {
+  console.log(response)
+}
+
+const pip_install = Deno.run({
+  cmd: ['python', '-m', 'pip', 'install', '-r', 'requirements.txt']
+})
+
+await pip_install.status()
 
 // Forwards the execution to the python script
 const py_run = Deno.run({
-    cmd: ['python', './postprocess.py'].concat(Deno.args),
-});
+  cmd: ['python', './postprocess.py'].concat(Deno.args)
+})
 
-await py_run.status();
+await py_run.status()
