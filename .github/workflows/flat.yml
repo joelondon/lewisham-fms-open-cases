@@ -20,8 +20,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url:
-            https://www.fixmystreet.com/open311/v2/requests.json?jurisdiction_id=fixmystreet&status=open&agency_responsible=2492
-            | jq .service_requests
+          http_url: https://www.fixmystreet.com/open311/v2/requests.json?jurisdiction_id=fixmystreet&status=open&agency_responsible=2492
           downloaded_filename: fixmystreet-open-cases.json
           postprocess: ./fms-open-cases/postprocess.ts
