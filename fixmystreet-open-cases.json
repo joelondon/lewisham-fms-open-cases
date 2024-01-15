@@ -1,1393 +1,1310 @@
 [
   {
+    "status": "open",
+    "service_request_id": 5442584,
+    "service_code": "Rubbish (refuse and recycling)",
+    "service_name": "Rubbish (refuse and recycling)",
     "long": "0.011958",
-    "description": "Dumped rubbish: Rubbish regularly being dumped in the front garden of an empty property.",
+    "updated_datetime": "2024-01-14T22:50:29+00:00",
+    "agency_sent_datetime": "2024-01-14T22:50:29+00:00",
     "requested_datetime": "2024-01-14T22:50:26+00:00",
     "lat": "51.442802",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
     "detail": "Rubbish regularly being dumped in the front garden of an empty property.",
-    "updated_datetime": "2024-01-14T22:50:29+00:00",
-    "service_code": "Rubbish (refuse and recycling)",
-    "service_request_id": 5442584,
     "interface_used": "mobile",
-    "media_url": "https://www.fixmystreet.com/photo/5442584.0.full.jpeg?984394e9",
-    "agency_sent_datetime": "2024-01-14T22:50:29+00:00",
+    "description": "Dumped rubbish: Rubbish regularly being dumped in the front garden of an empty property.",
     "title": "Dumped rubbish",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
-    "service_name": "Rubbish (refuse and recycling)"
+    "media_url": "https://www.fixmystreet.com/photo/5442584.0.full.jpeg?984394e9"
   },
   {
-    "title": "Hole cut in tennis court fencing",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "service_name": "Parks & Green Spaces",
-    "status": "open",
-    "agency_sent_datetime": "2024-01-14T21:45:54+00:00",
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/5442485.0.full.jpeg?1d2856db",
-    "service_request_id": 5442485,
-    "detail": "Hole has been cut in the fencing to allow unpaid access to tennis courts. People now using it for football and dogs.",
-    "updated_datetime": "2024-01-14T21:45:54+00:00",
-    "service_code": "Parks & Green Spaces",
-    "description": "Hole cut in tennis court fencing: Hole has been cut in the fencing to allow unpaid access to tennis courts. People now using it for football and dogs.",
-    "requested_datetime": "2024-01-14T21:45:52+00:00",
-    "long": "-0.045306",
-    "lat": "51.46762"
-  },
-  {
-    "service_code": "Street Lighting",
-    "detail": "JC Decaux managed (for Lewisham Council) bus shelter at bus stop F Briant Street towards Brockley, Deptford Or Lewisham : shelter roof lighting out\n\nPlease report to JC Decaux for a visit and repair\n\nIt is this shelter:\n\nHttps://www.instantstreetview.com/@51.476835,-0.049616,99.81h,-0.3p,2.7z,CxU_re89EiN1kpdqC4l1OQ\n\nThank you",
-    "updated_datetime": "2024-01-14T16:42:09+00:00",
-    "lat": "51.476388",
-    "long": "-0.049605",
-    "description": "JC Decaux managed (for Lewisham Council) bus shelter at bus stop F Briant Street towards Brockley, Deptford Or Lewisham : shelter roof lighting out: JC Decaux managed (for Lewisham Council) bus shelter at bus stop F Briant Street towards Brockley, Deptford Or Lewisham : shelter roof lighting out\n\nPlease report to JC Decaux for a visit and repair\n\nIt is this shelter:\n\nHttps://www.instantstreetview.com/@51.476835,-0.049616,99.81h,-0.3p,2.7z,CxU_re89EiN1kpdqC4l1OQ\n\nThank you",
-    "requested_datetime": "2024-01-14T16:42:04+00:00",
-    "service_request_id": 5441544,
-    "agency_sent_datetime": "2024-01-14T16:42:09+00:00",
-    "interface_used": "desktop",
-    "status": "open",
-    "service_name": "Street Lighting",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "JC Decaux managed (for Lewisham Council) bus shelter at bus stop F Briant Street towards Brockley, Deptford Or Lewisham : shelter roof lighting out"
-  },
-  {
-    "requested_datetime": "2024-01-14T13:24:25+00:00",
-    "description": "New Graffiti Tag from 13/01/24: Someone has tagged the wall with yellow paint. See image. Please could someone help remove?",
-    "long": "-0.055189",
-    "lat": "51.435803",
-    "updated_datetime": "2024-01-14T13:24:30+00:00",
-    "detail": "Someone has tagged the wall with yellow paint. See image. Please could someone help remove?",
-    "service_code": "Graffiti",
-    "service_request_id": 5440700,
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/5440700.0.full.jpeg?3396ce77",
-    "agency_sent_datetime": "2024-01-14T13:24:30+00:00",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "New Graffiti Tag from 13/01/24",
-    "service_name": "Graffiti",
-    "status": "open"
-  },
-  {
-    "service_request_id": 5440558,
-    "detail": "It’s been there for weeks, rest of stuff was removed except this machine. Pls take it away. Thanks",
-    "updated_datetime": "2024-01-14T12:48:34+00:00",
-    "service_code": "Fly-Tipping",
-    "requested_datetime": "2024-01-14T12:48:32+00:00",
+    "media_url": "https://www.fixmystreet.com/photo/5440558.0.full.jpeg?a8298edf",
     "description": "Fly tipping: It’s been there for weeks, rest of stuff was removed except this machine. Pls take it away. Thanks",
-    "long": "-0.045896",
-    "lat": "51.433143",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
     "title": "Fly tipping",
-    "service_name": "Fly-Tipping",
-    "status": "open",
+    "detail": "It’s been there for weeks, rest of stuff was removed except this machine. Pls take it away. Thanks",
+    "interface_used": "iOS",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.433143",
+    "updated_datetime": "2024-01-14T12:48:34+00:00",
+    "requested_datetime": "2024-01-14T12:48:32+00:00",
     "agency_sent_datetime": "2024-01-14T12:48:34+00:00",
-    "interface_used": "iOS",
-    "media_url": "https://www.fixmystreet.com/photo/5440558.0.full.jpeg?a8298edf"
-  },
-  {
-    "status": "open",
-    "service_name": "Graffiti (Offensive)",
-    "title": "Lots of graffiti",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "agency_sent_datetime": "2024-01-14T12:14:58+00:00",
-    "media_url": "https://www.fixmystreet.com/photo/5440415.0.full.jpeg?a7f2a29b",
-    "interface_used": "iOS",
-    "service_request_id": 5440415,
-    "service_code": "Graffiti (Offensive)",
-    "detail": "This graffiti has been here for months and no one is doing anything about it. You obviously need to deal with this out of hours because the shutters are up in the day time. The surrounding area of shops have all got graffiti on them. Please can it be dealt with as it brings the whole area down. This run of shops and the surrounding area needs a big revamp!!!!",
-    "updated_datetime": "2024-01-14T12:14:58+00:00",
-    "lat": "51.448753",
-    "long": "0.013219",
-    "requested_datetime": "2024-01-14T12:14:57+00:00",
-    "description": "Lots of graffiti: This graffiti has been here for months and no one is doing anything about it. You obviously need to deal with this out of hours because the shutters are up in the day time. The surrounding area of shops have all got graffiti on them. Please can it be dealt with as it brings the whole area down. This run of shops and the surrounding area needs a big revamp!!!!"
-  },
-  {
-    "service_request_id": 5440272,
-    "long": "-0.037872",
-    "requested_datetime": "2024-01-14T11:42:20+00:00",
-    "description": "Abandoned Moped / motorbike: This has been here at least 12 months. Numberplates have been removed.",
-    "lat": "51.460154",
-    "detail": "This has been here at least 12 months. Numberplates have been removed.",
-    "updated_datetime": "2024-01-14T11:42:21+00:00",
-    "service_code": "Abandoned vehicles",
-    "title": "Abandoned Moped / motorbike",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
-    "service_name": "Abandoned vehicles",
-    "interface_used": "iOS",
-    "media_url": "https://www.fixmystreet.com/photo/5440272.0.full.jpeg?21f7d529",
-    "agency_sent_datetime": "2024-01-14T11:42:21+00:00"
-  },
-  {
-    "title": "Rubbish caused by Fox and brown bin etc dumped",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
+    "service_code": "Fly-Tipping",
+    "long": "-0.045896",
     "service_name": "Fly-Tipping",
-    "agency_sent_datetime": "2024-01-14T08:38:55+00:00",
+    "status": "open",
+    "service_request_id": 5440558
+  },
+  {
+    "service_request_id": 5440415,
+    "status": "open",
+    "agency_sent_datetime": "2024-01-14T12:14:58+00:00",
+    "requested_datetime": "2024-01-14T12:14:57+00:00",
+    "updated_datetime": "2024-01-14T12:14:58+00:00",
+    "long": "0.013219",
+    "service_name": "Graffiti (Offensive)",
+    "service_code": "Graffiti (Offensive)",
+    "interface_used": "iOS",
+    "detail": "This graffiti has been here for months and no one is doing anything about it. You obviously need to deal with this out of hours because the shutters are up in the day time. The surrounding area of shops have all got graffiti on them. Please can it be dealt with as it brings the whole area down. This run of shops and the surrounding area needs a big revamp!!!!",
+    "lat": "51.448753",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "media_url": "https://www.fixmystreet.com/photo/5440415.0.full.jpeg?a7f2a29b",
+    "description": "Lots of graffiti: This graffiti has been here for months and no one is doing anything about it. You obviously need to deal with this out of hours because the shutters are up in the day time. The surrounding area of shops have all got graffiti on them. Please can it be dealt with as it brings the whole area down. This run of shops and the surrounding area needs a big revamp!!!!",
+    "title": "Lots of graffiti"
+  },
+  {
+    "lat": "51.431089",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
     "interface_used": "Android",
+    "detail": "This brown bin has been here for weeks. Plus we now have a crate and suitcase dumped..we need a fox proof bin.",
+    "title": "Rubbish caused by Fox and brown bin etc dumped",
+    "description": "Rubbish caused by Fox and brown bin etc dumped: This brown bin has been here for weeks. Plus we now have a crate and suitcase dumped..we need a fox proof bin.",
     "media_url": "https://www.fixmystreet.com/photo/5439592.0.full.jpeg?7ca2c549",
     "service_request_id": 5439592,
-    "updated_datetime": "2024-01-14T08:38:55+00:00",
-    "detail": "This brown bin has been here for weeks. Plus we now have a crate and suitcase dumped..we need a fox proof bin.",
-    "service_code": "Fly-Tipping",
-    "long": "-0.068897",
-    "description": "Rubbish caused by Fox and brown bin etc dumped: This brown bin has been here for weeks. Plus we now have a crate and suitcase dumped..we need a fox proof bin.",
-    "requested_datetime": "2024-01-14T08:38:54+00:00",
-    "lat": "51.431089"
-  },
-  {
-    "service_request_id": 5438724,
-    "updated_datetime": "2024-01-13T17:53:20+00:00",
-    "detail": "Flytipping",
-    "service_code": "Fly-Tipping",
-    "description": "Large household items.: Flytipping",
-    "requested_datetime": "2024-01-13T17:53:18+00:00",
-    "long": "-0.047701",
-    "lat": "51.482832",
-    "title": "Large household items.",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
+    "status": "open",
     "service_name": "Fly-Tipping",
-    "status": "open",
-    "agency_sent_datetime": "2024-01-13T17:53:20+00:00",
-    "interface_used": "Android",
-    "media_url": "https://www.fixmystreet.com/photo/5438724.0.full.jpeg?9797b604"
+    "long": "-0.068897",
+    "service_code": "Fly-Tipping",
+    "agency_sent_datetime": "2024-01-14T08:38:55+00:00",
+    "requested_datetime": "2024-01-14T08:38:54+00:00",
+    "updated_datetime": "2024-01-14T08:38:55+00:00"
   },
   {
-    "agency_sent_datetime": "2024-01-13T10:02:01+00:00",
-    "media_url": "https://www.fixmystreet.com/photo/5436810.0.full.jpeg?78b7c4af",
-    "interface_used": "desktop",
-    "status": "open",
-    "service_name": "Roads/Highways",
-    "title": "Knocked down bolder and cars damaging the green",
+    "interface_used": "Android",
+    "detail": "Flytipping",
+    "lat": "51.482832",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "service_code": "Roads/Highways",
-    "updated_datetime": "2024-01-13T10:02:01+00:00",
-    "detail": "Cars consistently drive over the green in our close and have recently knocked down this wooden bolder / post, which was there to stop them from driving over here. You can see how the cars are now turning the grass to mud as they drive over the pedestrianised green area to get to their parking more quickly. Please repair and replace the wooden bolder / pole so that cars can’t drive over here.",
-    "lat": "51.42143",
-    "long": "-0.000846",
+    "media_url": "https://www.fixmystreet.com/photo/5438724.0.full.jpeg?9797b604",
+    "description": "Large household items.: Flytipping",
+    "title": "Large household items.",
+    "service_request_id": 5438724,
+    "status": "open",
+    "requested_datetime": "2024-01-13T17:53:18+00:00",
+    "agency_sent_datetime": "2024-01-13T17:53:20+00:00",
+    "updated_datetime": "2024-01-13T17:53:20+00:00",
+    "service_name": "Fly-Tipping",
+    "long": "-0.047701",
+    "service_code": "Fly-Tipping"
+  },
+  {
     "description": "Knocked down bolder and cars damaging the green: Cars consistently drive over the green in our close and have recently knocked down this wooden bolder / post, which was there to stop them from driving over here. You can see how the cars are now turning the grass to mud as they drive over the pedestrianised green area to get to their parking more quickly. Please repair and replace the wooden bolder / pole so that cars can’t drive over here.",
+    "title": "Knocked down bolder and cars damaging the green",
+    "media_url": "https://www.fixmystreet.com/photo/5436810.0.full.jpeg?78b7c4af",
+    "lat": "51.42143",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "detail": "Cars consistently drive over the green in our close and have recently knocked down this wooden bolder / post, which was there to stop them from driving over here. You can see how the cars are now turning the grass to mud as they drive over the pedestrianised green area to get to their parking more quickly. Please repair and replace the wooden bolder / pole so that cars can’t drive over here.",
+    "interface_used": "desktop",
+    "service_code": "Roads/Highways",
+    "service_name": "Roads/Highways",
+    "long": "-0.000846",
+    "updated_datetime": "2024-01-13T10:02:01+00:00",
+    "agency_sent_datetime": "2024-01-13T10:02:01+00:00",
     "requested_datetime": "2024-01-13T10:01:59+00:00",
+    "status": "open",
     "service_request_id": 5436810
   },
   {
-    "lat": "51.427521",
-    "long": "-0.054627",
-    "requested_datetime": "2024-01-13T09:33:18+00:00",
-    "description": "Fly tip: Fly tip",
-    "service_code": "Fly-Tipping",
-    "updated_datetime": "2024-01-13T09:33:20+00:00",
     "detail": "Fly tip",
-    "service_request_id": 5436716,
-    "media_url": "https://www.fixmystreet.com/photo/5436716.0.full.jpeg?f82a2dc2",
     "interface_used": "mobile",
-    "agency_sent_datetime": "2024-01-13T09:33:20+00:00",
-    "status": "open",
-    "service_name": "Fly-Tipping",
+    "lat": "51.427521",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Fly tip"
+    "media_url": "https://www.fixmystreet.com/photo/5436716.0.full.jpeg?f82a2dc2",
+    "title": "Fly tip",
+    "description": "Fly tip: Fly tip",
+    "status": "open",
+    "service_request_id": 5436716,
+    "updated_datetime": "2024-01-13T09:33:20+00:00",
+    "agency_sent_datetime": "2024-01-13T09:33:20+00:00",
+    "requested_datetime": "2024-01-13T09:33:18+00:00",
+    "service_code": "Fly-Tipping",
+    "long": "-0.054627",
+    "service_name": "Fly-Tipping"
   },
   {
     "service_code": "Street Cleaning",
-    "detail": "Leaf fall from large lime tree - slip hazard for elderly, prevents passage by buggies, gathering litter. Leaves also in adjacent road gutter - risk of blocking road drain. Please clear.",
-    "updated_datetime": "2024-01-12T13:19:34+00:00",
-    "lat": "51.458598",
-    "requested_datetime": "2023-12-31T11:03:05+00:00",
-    "description": "Decaying leaves blocking pavement: Leaf fall from large lime tree - slip hazard for elderly, prevents passage by buggies, gathering litter. Leaves also in adjacent road gutter - risk of blocking road drain. Please clear.",
     "long": "-0.020108",
-    "service_request_id": 5370952,
-    "agency_sent_datetime": "2023-12-31T11:03:06+00:00",
-    "media_url": "https://www.fixmystreet.com/photo/5370952.0.full.jpeg?ab642ed0",
-    "interface_used": "desktop",
     "service_name": "Street Cleaning",
+    "updated_datetime": "2024-01-12T13:19:34+00:00",
+    "agency_sent_datetime": "2023-12-31T11:03:06+00:00",
+    "requested_datetime": "2023-12-31T11:03:05+00:00",
     "status": "open",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
+    "service_request_id": 5370952,
     "title": "Decaying leaves blocking pavement",
-    "comment_count": 2
-  },
-  {
-    "detail": "I have reported this and received an email to say it has been cleared, case closed. Came back to the park a day after and it is still there. This is just one of maybe 50 pieces of these sharp bits of metal sticking out of the ground, some near Ravensbourne station entrance, some closer to sedgehill and some near to Mcdonalds. Maybe send someone out walking to find them and remove them, I don't have the time to make 50+ induvisual reports.",
-    "updated_datetime": "2024-01-12T13:57:30+00:00",
-    "service_code": "Parks/Landscapes",
-    "requested_datetime": "2023-12-15T13:19:26+00:00",
-    "description": "Old fence still there: I have reported this and received an email to say it has been cleared, case closed. Came back to the park a day after and it is still there. This is just one of maybe 50 pieces of these sharp bits of metal sticking out of the ground, some near Ravensbourne station entrance, some closer to sedgehill and some near to Mcdonalds. Maybe send someone out walking to find them and remove them, I don't have the time to make 50+ induvisual reports.",
-    "long": "-0.014093",
-    "lat": "51.415154",
-    "service_request_id": 5324297,
-    "agency_sent_datetime": "2023-12-15T13:19:29+00:00",
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/5324297.0.full.jpeg?17fd0813",
+    "description": "Decaying leaves blocking pavement: Leaf fall from large lime tree - slip hazard for elderly, prevents passage by buggies, gathering litter. Leaves also in adjacent road gutter - risk of blocking road drain. Please clear.",
+    "media_url": "https://www.fixmystreet.com/photo/5370952.0.full.jpeg?ab642ed0",
+    "lat": "51.458598",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Old fence still there",
     "comment_count": 2,
+    "detail": "Leaf fall from large lime tree - slip hazard for elderly, prevents passage by buggies, gathering litter. Leaves also in adjacent road gutter - risk of blocking road drain. Please clear.",
+    "interface_used": "desktop"
+  },
+  {
+    "agency_sent_datetime": "2023-12-15T13:19:29+00:00",
+    "requested_datetime": "2023-12-15T13:19:26+00:00",
+    "updated_datetime": "2024-01-12T13:57:30+00:00",
+    "long": "-0.014093",
     "service_name": "Parks/Landscapes",
-    "status": "open"
-  },
-  {
+    "service_code": "Parks/Landscapes",
+    "service_request_id": 5324297,
+    "status": "open",
+    "media_url": "https://www.fixmystreet.com/photo/5324297.0.full.jpeg?17fd0813",
+    "title": "Old fence still there",
+    "description": "Old fence still there: I have reported this and received an email to say it has been cleared, case closed. Came back to the park a day after and it is still there. This is just one of maybe 50 pieces of these sharp bits of metal sticking out of the ground, some near Ravensbourne station entrance, some closer to sedgehill and some near to Mcdonalds. Maybe send someone out walking to find them and remove them, I don't have the time to make 50+ induvisual reports.",
     "interface_used": "desktop",
-    "agency_sent_datetime": "2023-10-31T12:33:05+00:00",
+    "detail": "I have reported this and received an email to say it has been cleared, case closed. Came back to the park a day after and it is still there. This is just one of maybe 50 pieces of these sharp bits of metal sticking out of the ground, some near Ravensbourne station entrance, some closer to sedgehill and some near to Mcdonalds. Maybe send someone out walking to find them and remove them, I don't have the time to make 50+ induvisual reports.",
+    "comment_count": 2,
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Dumped rubbish",
-    "comment_count": 4,
-    "service_name": "Rubbish (refuse and recycling)",
-    "status": "open",
-    "description": "Dumped rubbish: Several sacks of rubbish have been dumped in the bushes at this location.",
-    "requested_datetime": "2023-10-31T12:33:02+00:00",
-    "long": "-0.005522",
-    "lat": "51.436312",
-    "detail": "Several sacks of rubbish have been dumped in the bushes at this location.",
+    "lat": "51.415154"
+  },
+  {
     "updated_datetime": "2023-11-08T19:03:39+00:00",
+    "requested_datetime": "2023-10-31T12:33:02+00:00",
+    "agency_sent_datetime": "2023-10-31T12:33:05+00:00",
     "service_code": "Rubbish (refuse and recycling)",
-    "service_request_id": 5157522
-  },
-  {
-    "service_code": "Tree",
-    "updated_datetime": "2023-12-21T21:01:09+00:00",
-    "detail": "Tree needs to be cut back",
-    "lat": "51.441022",
-    "description": "Tree is obstructing pavement: Tree needs to be cut back",
-    "requested_datetime": "2023-10-26T12:19:54+01:00",
-    "long": "-0.053309",
-    "service_request_id": 5140041,
-    "agency_sent_datetime": "2023-10-26T12:19:55+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/5140041.0.full.jpeg?9778cc5b",
-    "interface_used": "desktop",
-    "service_name": "Tree",
+    "service_name": "Rubbish (refuse and recycling)",
+    "long": "-0.005522",
     "status": "open",
+    "service_request_id": 5157522,
+    "description": "Dumped rubbish: Several sacks of rubbish have been dumped in the bushes at this location.",
+    "title": "Dumped rubbish",
+    "detail": "Several sacks of rubbish have been dumped in the bushes at this location.",
+    "interface_used": "desktop",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Tree is obstructing pavement",
+    "lat": "51.436312",
     "comment_count": 4
   },
   {
-    "service_request_id": 5078625,
-    "detail": "My kid went down this slide at Manor House gardens and landed face first and cut her lip. This really needs to be patched to avoid children getting hurt\n\nThe “twirly pole” toy has the same issue",
-    "updated_datetime": "2024-01-04T10:46:07+00:00",
-    "service_code": "Parks/Landscapes",
-    "description": "Exposed hard painful ground at bottom of kids slide: My kid went down this slide at Manor House gardens and landed face first and cut her lip. This really needs to be patched to avoid children getting hurt\n\nThe “twirly pole” toy has the same issue",
-    "requested_datetime": "2023-10-09T16:45:23+01:00",
-    "long": "0.005038",
+    "title": "Tree is obstructing pavement",
+    "description": "Tree is obstructing pavement: Tree needs to be cut back",
+    "media_url": "https://www.fixmystreet.com/photo/5140041.0.full.jpeg?9778cc5b",
+    "comment_count": 4,
+    "lat": "51.441022",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "interface_used": "desktop",
+    "detail": "Tree needs to be cut back",
+    "long": "-0.053309",
+    "service_name": "Tree",
+    "service_code": "Tree",
+    "agency_sent_datetime": "2023-10-26T12:19:55+01:00",
+    "requested_datetime": "2023-10-26T12:19:54+01:00",
+    "updated_datetime": "2023-12-21T21:01:09+00:00",
+    "service_request_id": 5140041,
+    "status": "open"
+  },
+  {
     "lat": "51.456885",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Exposed hard painful ground at bottom of kids slide",
     "comment_count": 2,
-    "service_name": "Parks/Landscapes",
-    "status": "open",
-    "agency_sent_datetime": "2023-10-09T16:45:30+01:00",
     "interface_used": "iOS",
-    "media_url": "https://www.fixmystreet.com/photo/5078625.0.full.jpeg?6c958e54"
-  },
-  {
-    "service_name": "Parks & Green Spaces",
+    "detail": "My kid went down this slide at Manor House gardens and landed face first and cut her lip. This really needs to be patched to avoid children getting hurt\n\nThe “twirly pole” toy has the same issue",
+    "description": "Exposed hard painful ground at bottom of kids slide: My kid went down this slide at Manor House gardens and landed face first and cut her lip. This really needs to be patched to avoid children getting hurt\n\nThe “twirly pole” toy has the same issue",
+    "title": "Exposed hard painful ground at bottom of kids slide",
+    "media_url": "https://www.fixmystreet.com/photo/5078625.0.full.jpeg?6c958e54",
+    "service_request_id": 5078625,
     "status": "open",
-    "title": "Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN",
-    "requestor_name": "Friends of Mountsfield Park",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 2,
-    "media_url": "https://www.fixmystreet.com/photo/4999690.0.full.jpeg?e85f29f1",
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2023-09-16T09:07:48+01:00",
-    "service_request_id": 4999690,
-    "lat": "51.449312",
-    "description": "Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN: Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN. Stainton Road entrance sign needs repair by Lewisham Council. George Lane entrance sign still missing since it was broken at People's Day 2022. The Mountsfield Park entrance signs were Section 106 / Community Infrastructure Levy funded.",
-    "requested_datetime": "2023-09-16T09:07:46+01:00",
-    "long": "-0.007091",
-    "service_code": "Parks & Green Spaces",
-    "detail": "Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN. Stainton Road entrance sign needs repair by Lewisham Council. George Lane entrance sign still missing since it was broken at People's Day 2022. The Mountsfield Park entrance signs were Section 106 / Community Infrastructure Levy funded.",
-    "updated_datetime": "2023-10-28T08:30:47+01:00"
-  },
-  {
-    "service_name": "Garden Waste",
-    "status": "open",
-    "title": "Bushes",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 2,
-    "media_url": "https://www.fixmystreet.com/photo/4963230.0.full.jpeg?625cd947",
-    "interface_used": "mobile",
-    "agency_sent_datetime": "2023-09-06T06:55:08+01:00",
-    "service_request_id": 4963230,
-    "lat": "51.431254",
-    "description": "Bushes: A neighbour cut down some of this tree as it was overgrown and just left remains on floor",
-    "requested_datetime": "2023-09-06T06:55:06+01:00",
-    "long": "0.034726",
-    "service_code": "Garden Waste",
-    "updated_datetime": "2023-09-16T06:19:52+01:00",
-    "detail": "A neighbour cut down some of this tree as it was overgrown and just left remains on floor"
-  },
-  {
-    "updated_datetime": "2023-10-28T08:35:01+01:00",
-    "detail": "Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN. Reported 6th July. Litter bins are too small and are not emptied often enough by Lewisham Council contractors.",
+    "service_name": "Parks/Landscapes",
+    "long": "0.005038",
     "service_code": "Parks/Landscapes",
-    "requested_datetime": "2023-09-04T20:49:26+01:00",
-    "description": "Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN: Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN. Reported 6th July. Litter bins are too small and are not emptied often enough by Lewisham Council contractors.",
-    "long": "-0.008754",
-    "lat": "51.447741",
-    "service_request_id": 4958842,
-    "agency_sent_datetime": "2023-09-04T20:49:27+01:00",
+    "agency_sent_datetime": "2023-10-09T16:45:30+01:00",
+    "requested_datetime": "2023-10-09T16:45:23+01:00",
+    "updated_datetime": "2024-01-04T10:46:07+00:00"
+  },
+  {
+    "media_url": "https://www.fixmystreet.com/photo/4999690.0.full.jpeg?e85f29f1",
+    "description": "Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN: Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN. Stainton Road entrance sign needs repair by Lewisham Council. George Lane entrance sign still missing since it was broken at People's Day 2022. The Mountsfield Park entrance signs were Section 106 / Community Infrastructure Levy funded.",
+    "title": "Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN",
+    "detail": "Broken entrance sign and missing entrance sign at Mountsfield Park SE6 1AN. Stainton Road entrance sign needs repair by Lewisham Council. George Lane entrance sign still missing since it was broken at People's Day 2022. The Mountsfield Park entrance signs were Section 106 / Community Infrastructure Levy funded.",
     "interface_used": "desktop",
+    "comment_count": 2,
+    "lat": "51.449312",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "requestor_name": "Friends of Mountsfield Park",
+    "updated_datetime": "2023-10-28T08:30:47+01:00",
+    "agency_sent_datetime": "2023-09-16T09:07:48+01:00",
+    "requested_datetime": "2023-09-16T09:07:46+01:00",
+    "service_code": "Parks & Green Spaces",
+    "service_name": "Parks & Green Spaces",
+    "long": "-0.007091",
+    "status": "open",
+    "service_request_id": 4999690
+  },
+  {
+    "interface_used": "mobile",
+    "detail": "A neighbour cut down some of this tree as it was overgrown and just left remains on floor",
+    "comment_count": 2,
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.431254",
+    "media_url": "https://www.fixmystreet.com/photo/4963230.0.full.jpeg?625cd947",
+    "description": "Bushes: A neighbour cut down some of this tree as it was overgrown and just left remains on floor",
+    "title": "Bushes",
+    "service_request_id": 4963230,
+    "status": "open",
+    "requested_datetime": "2023-09-06T06:55:06+01:00",
+    "agency_sent_datetime": "2023-09-06T06:55:08+01:00",
+    "updated_datetime": "2023-09-16T06:19:52+01:00",
+    "service_name": "Garden Waste",
+    "long": "0.034726",
+    "service_code": "Garden Waste"
+  },
+  {
+    "description": "Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN: Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN. Reported 6th July. Litter bins are too small and are not emptied often enough by Lewisham Council contractors.",
+    "title": "Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN",
     "media_url": "https://www.fixmystreet.com/photo/4958842.0.full.jpeg?354411db",
     "requestor_name": "Friends of Mountsfield Park",
+    "comment_count": 3,
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN",
-    "comment_count": 3,
+    "lat": "51.447741",
+    "interface_used": "desktop",
+    "detail": "Recurring issue with Litter at Mountsfield Park play area, Lewisham SE6 1AN. Reported 6th July. Litter bins are too small and are not emptied often enough by Lewisham Council contractors.",
     "service_name": "Parks/Landscapes",
+    "long": "-0.008754",
+    "service_code": "Parks/Landscapes",
+    "requested_datetime": "2023-09-04T20:49:26+01:00",
+    "agency_sent_datetime": "2023-09-04T20:49:27+01:00",
+    "updated_datetime": "2023-10-28T08:35:01+01:00",
+    "service_request_id": 4958842,
     "status": "open"
   },
   {
-    "status": "open",
-    "service_name": "Parks & Green Spaces",
-    "comment_count": 2,
     "requestor_name": "Friends of Mountsfield Park",
-    "title": "Fitness equipment needs repair",
+    "comment_count": 2,
+    "lat": "51.447423",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "media_url": "https://www.fixmystreet.com/photo/4935285.0.full.jpeg?12ad9834",
     "interface_used": "desktop",
-    "agency_sent_datetime": "2023-08-29T08:08:10+01:00",
-    "service_request_id": 4935285,
-    "lat": "51.447423",
-    "long": "-0.010331",
-    "description": "Fitness equipment needs repair: Sharp rusty steel projection from fitness equipment needs urgent attention",
-    "requested_datetime": "2023-08-29T08:08:09+01:00",
-    "service_code": "Parks & Green Spaces",
     "detail": "Sharp rusty steel projection from fitness equipment needs urgent attention",
+    "title": "Fitness equipment needs repair",
+    "description": "Fitness equipment needs repair: Sharp rusty steel projection from fitness equipment needs urgent attention",
+    "media_url": "https://www.fixmystreet.com/photo/4935285.0.full.jpeg?12ad9834",
+    "service_request_id": 4935285,
+    "status": "open",
+    "long": "-0.010331",
+    "service_name": "Parks & Green Spaces",
+    "service_code": "Parks & Green Spaces",
+    "requested_datetime": "2023-08-29T08:08:09+01:00",
+    "agency_sent_datetime": "2023-08-29T08:08:10+01:00",
     "updated_datetime": "2023-10-28T08:36:44+01:00"
   },
   {
-    "service_code": "Parks & Green Spaces",
-    "updated_datetime": "2023-10-28T08:37:24+01:00",
-    "detail": "Midday on a Sunday and bins have not been emptied.",
-    "lat": "51.4484",
-    "long": "-0.008043",
-    "requested_datetime": "2023-08-20T11:50:16+01:00",
+    "title": "Bins need emptying at Mountsfield Park",
     "description": "Bins need emptying at Mountsfield Park: Midday on a Sunday and bins have not been emptied.",
-    "service_request_id": 4909162,
-    "agency_sent_datetime": "2023-08-20T11:50:18+01:00",
     "media_url": "https://www.fixmystreet.com/photo/4909162.0.full.jpeg?12b51dde",
-    "interface_used": "Android",
-    "status": "open",
-    "service_name": "Parks & Green Spaces",
-    "comment_count": 2,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
     "requestor_name": "Friends of Mountsfield Park",
-    "title": "Bins need emptying at Mountsfield Park"
-  },
-  {
-    "agency_sent_datetime": "2023-07-31T12:57:44+01:00",
-    "interface_used": "mobile",
-    "media_url": "https://www.fixmystreet.com/photo/4843145.0.full.jpeg?a8d8bba7",
-    "comment_count": 1,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Vehicle has been left abadonded and taking up residential space. No owner to contact to remove. Spoke to housing association and no response as to removal of vehicle",
-    "status": "open",
-    "service_name": "Abandoned vehicles",
-    "detail": "Vehicle has been left for almost 1 year without moving and is taking up residential parking space. I have contacted council and housing association but still no response. Can this be dealt with as there is no parking space in the residential area.",
-    "updated_datetime": "2023-08-01T13:05:32+01:00",
-    "service_code": "Abandoned vehicles",
-    "long": "-0.027324",
-    "requested_datetime": "2023-07-31T12:57:39+01:00",
-    "description": "Vehicle has been left abadonded and taking up residential space. No owner to contact to remove. Spoke to housing association and no response as to removal of vehicle: Vehicle has been left for almost 1 year without moving and is taking up residential parking space. I have contacted council and housing association but still no response. Can this be dealt with as there is no parking space in the residential area.",
-    "lat": "51.475778",
-    "service_request_id": 4843145
-  },
-  {
-    "status": "open",
-    "service_name": "Roads/Highways",
-    "comment_count": 3,
-    "title": "Rubbish on cycle path",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "agency_sent_datetime": "2023-07-13T08:46:02+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/4781659.0.full.jpeg?7ae8481c",
-    "interface_used": "mobile",
-    "service_request_id": 4781659,
-    "service_code": "Roads/Highways",
-    "detail": "Rubbish (cans/bottles etc) accumulating on shared cycle path/footpath/road that goes through the tunnel under the railway. Needs a good tidy up",
-    "updated_datetime": "2023-10-24T19:16:52+01:00",
-    "lat": "51.466139",
-    "long": "-0.015863",
-    "requested_datetime": "2023-07-13T08:45:56+01:00",
-    "description": "Rubbish on cycle path: Rubbish (cans/bottles etc) accumulating on shared cycle path/footpath/road that goes through the tunnel under the railway. Needs a good tidy up"
-  },
-  {
-    "service_request_id": 4755632,
-    "lat": "51.44715",
-    "description": "Fitness equipment at Mountsfield Park needs repair: Fitness equipment at Mountsfield Park needs repair.",
-    "requested_datetime": "2023-07-06T09:17:25+01:00",
-    "long": "-0.009163",
-    "service_code": "Parks & Green Spaces",
-    "updated_datetime": "2023-10-28T08:40:11+01:00",
-    "detail": "Fitness equipment at Mountsfield Park needs repair.",
-    "service_name": "Parks & Green Spaces",
-    "status": "open",
-    "title": "Fitness equipment at Mountsfield Park needs repair",
-    "requestor_name": "Friends of Mountsfield Park",
+    "lat": "51.4484",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
     "comment_count": 2,
-    "media_url": "https://www.fixmystreet.com/photo/4755632.0.full.jpeg?5f789ece",
     "interface_used": "Android",
-    "agency_sent_datetime": "2023-07-06T09:17:34+01:00"
-  },
-  {
-    "service_request_id": 4755567,
-    "service_code": "Parks & Green Spaces",
-    "updated_datetime": "2023-10-28T08:38:49+01:00",
-    "detail": "Fitness equipment at Mountsfield Park needs repair",
-    "lat": "51.447631",
-    "long": "-0.008884",
-    "description": "Fitness equipment at Mountsfield Park needs repair: Fitness equipment at Mountsfield Park needs repair",
-    "requested_datetime": "2023-07-06T09:06:14+01:00",
-    "status": "open",
+    "detail": "Midday on a Sunday and bins have not been emptied.",
     "service_name": "Parks & Green Spaces",
-    "comment_count": 4,
-    "title": "Fitness equipment at Mountsfield Park needs repair",
-    "requestor_name": "Friends of Mountsfield Park",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "agency_sent_datetime": "2023-07-06T09:06:22+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/4755567.0.full.jpeg?d9ed39db",
-    "interface_used": "Android"
-  },
-  {
-    "media_url": "https://www.fixmystreet.com/photo/4731630.0.full.jpeg?2410504f",
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2023-06-29T14:52:36+01:00",
-    "status": "open",
-    "service_name": "Roads/Highways",
-    "comment_count": 13,
-    "title": "Dumped/Obstructing/Commerical vehicles parked on road blocking turnings",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "lat": "51.436025",
-    "long": "-0.034271",
-    "requested_datetime": "2023-06-29T14:52:34+01:00",
-    "description": "Dumped/Obstructing/Commerical vehicles parked on road blocking turnings: The people who live next to the nursery on Perry Hill with the variety of vans and caravans (we believe it is number 133) have been parking a wide variety of vans in various states of disrepair on Perry Hill, Rutland Park etc for many months.\n\nThese are clearly being used for business purposes as on Sundays all of them are parked up and throughout the week any number of them are on the road.\n\nThey park them on corners of roads coming on to Perry Hill creating a hazard for turning out as you cannot see past them to see traffic coming in and out.\n\nThese are the same people who had various caravans on the road previously.\n\nPlease serve a removal notice to #133 and for any future vehicular ownership.\n\nIf they want to run a van dealership/transport business/scrap metal business then they need to secure an acceptable parking area for their fleet of vehicles.\n\nMore evidence below.",
-    "service_code": "Roads/Highways",
-    "updated_datetime": "2023-08-11T05:57:00+01:00",
-    "detail": "The people who live next to the nursery on Perry Hill with the variety of vans and caravans (we believe it is number 133) have been parking a wide variety of vans in various states of disrepair on Perry Hill, Rutland Park etc for many months.\n\nThese are clearly being used for business purposes as on Sundays all of them are parked up and throughout the week any number of them are on the road.\n\nThey park them on corners of roads coming on to Perry Hill creating a hazard for turning out as you cannot see past them to see traffic coming in and out.\n\nThese are the same people who had various caravans on the road previously.\n\nPlease serve a removal notice to #133 and for any future vehicular ownership.\n\nIf they want to run a van dealership/transport business/scrap metal business then they need to secure an acceptable parking area for their fleet of vehicles.\n\nMore evidence below.",
-    "service_request_id": 4731630
-  },
-  {
-    "service_request_id": 4730769,
-    "service_code": "Car Parking",
-    "detail": "This car and a couple more from the same household park on this bend making it blind for cars coming around the corner Ive seen a ambulance struggling get by. there is a sign which states no parking on that bend but the completely ignore and has been made aware of the danger he causing. A accident waiting to happen as he often parks one of his cars there.",
-    "updated_datetime": "2023-10-27T12:53:22+01:00",
-    "lat": "51.427792",
-    "long": "0.036954",
-    "description": "Dangerous parking: This car and a couple more from the same household park on this bend making it blind for cars coming around the corner Ive seen a ambulance struggling get by. there is a sign which states no parking on that bend but the completely ignore and has been made aware of the danger he causing. A accident waiting to happen as he often parks one of his cars there.",
-    "requested_datetime": "2023-06-29T11:58:30+01:00",
-    "status": "open",
-    "service_name": "Car Parking",
-    "comment_count": 4,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Dangerous parking",
-    "agency_sent_datetime": "2023-06-29T11:58:41+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/4730769.0.full.jpeg?8fe019bc",
-    "interface_used": "mobile"
-  },
-  {
-    "service_request_id": 4708226,
-    "service_code": "Abandoned vehicles",
-    "detail": "3 vans, middle one is sorn, but no tax. All abandoned, one missing wheel or clamped, all need to be removed",
-    "updated_datetime": "2023-08-01T16:25:42+01:00",
-    "lat": "51.430912",
-    "description": "3 vans abandoned on public car park: 3 vans, middle one is sorn, but no tax. All abandoned, one missing wheel or clamped, all need to be removed",
-    "requested_datetime": "2023-06-23T12:09:23+01:00",
-    "long": "-0.036653",
-    "service_name": "Abandoned vehicles",
-    "status": "open",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "3 vans abandoned on public car park",
-    "comment_count": 3,
-    "agency_sent_datetime": "2023-06-23T12:09:28+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/4708226.0.full.jpeg?2b0f322c",
-    "interface_used": "Android"
-  },
-  {
-    "title": "Green recycling bin been left for 6/7 weeks",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 9,
-    "service_name": "Fly-Tipping",
-    "status": "open",
-    "agency_sent_datetime": "2023-06-12T10:51:11+01:00",
-    "interface_used": "iOS",
-    "service_request_id": 4660192,
-    "updated_datetime": "2023-07-20T10:04:28+01:00",
-    "detail": "Left full up by the bus stop - needs to be be collected/removed. Heath hazard due to flies etc. people are adding more rubbish to it - possible fly tipping",
-    "service_code": "Fly-Tipping",
-    "requested_datetime": "2023-06-12T10:51:04+01:00",
-    "description": "Green recycling bin been left for 6/7 weeks: Left full up by the bus stop - needs to be be collected/removed. Heath hazard due to flies etc. people are adding more rubbish to it - possible fly tipping",
-    "long": "0.000364",
-    "lat": "51.428691"
-  },
-  {
-    "service_request_id": 4626896,
-    "long": "0.005504",
-    "description": "Emergency gates blocked: The parking lines and signage are so ineffective that cars have been blocking the emergency access gates for years. This is a health and safety issue - please enforce the parking restrictions.",
-    "requested_datetime": "2023-06-03T13:11:07+01:00",
-    "lat": "51.459313",
-    "detail": "The parking lines and signage are so ineffective that cars have been blocking the emergency access gates for years. This is a health and safety issue - please enforce the parking restrictions.",
-    "updated_datetime": "2024-01-04T08:20:55+00:00",
-    "service_code": "Car Parking",
-    "comment_count": 6,
-    "title": "Emergency gates blocked",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
-    "service_name": "Car Parking",
-    "interface_used": "mobile",
-    "media_url": "https://www.fixmystreet.com/photo/4626896.0.full.jpeg?af1268bf",
-    "agency_sent_datetime": "2023-06-03T13:11:14+01:00"
-  },
-  {
-    "service_name": "Tree",
-    "status": "open",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Weeds out of control around base of tree",
-    "comment_count": 5,
-    "agency_sent_datetime": "2023-05-13T11:15:01+01:00",
-    "interface_used": "mobile",
-    "service_request_id": 4549242,
-    "service_code": "Tree",
-    "detail": "Weeds have grown wild around this young tree and so risk of damage. needs clearing please.",
-    "updated_datetime": "2023-06-16T09:49:11+01:00",
-    "lat": "51.468512",
-    "requested_datetime": "2023-05-13T11:14:57+01:00",
-    "description": "Weeds out of control around base of tree: Weeds have grown wild around this young tree and so risk of damage. needs clearing please.",
-    "long": "-0.01835"
-  },
-  {
-    "media_url": "https://www.fixmystreet.com/photo/4528399.0.full.jpeg?d445d521",
-    "interface_used": "mobile",
-    "agency_sent_datetime": "2023-05-08T14:34:23+01:00",
-    "service_name": "Parks/Landscapes",
-    "status": "open",
-    "title": "Damaged hard landscaping",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 1,
-    "lat": "51.488831",
-    "description": "Damaged hard landscaping: Potentially dangerous and unsightly damage/wear and tear to raised podia, benches and Riverside wall along the Deptford Wharf/Deptford Strand frontage",
-    "requested_datetime": "2023-05-08T14:34:14+01:00",
-    "long": "-0.029654",
-    "service_code": "Parks/Landscapes",
-    "detail": "Potentially dangerous and unsightly damage/wear and tear to raised podia, benches and Riverside wall along the Deptford Wharf/Deptford Strand frontage",
-    "updated_datetime": "2023-07-03T17:07:18+01:00",
-    "service_request_id": 4528399
-  },
-  {
-    "service_request_id": 4528358,
-    "service_code": "Parks/Landscapes",
-    "detail": "Metal railings on the landscaped steps in Aragon Gardens have been damaged for years (and previously reported in 2020). Now the metal poles have been bent out of shape or snapped off resulting in sharp exposed metal.",
-    "updated_datetime": "2023-07-03T17:07:42+01:00",
-    "lat": "51.490701",
-    "long": "-0.031091",
-    "description": "Stair railings dangerous: Metal railings on the landscaped steps in Aragon Gardens have been damaged for years (and previously reported in 2020). Now the metal poles have been bent out of shape or snapped off resulting in sharp exposed metal.",
-    "requested_datetime": "2023-05-08T14:33:51+01:00",
-    "status": "open",
-    "service_name": "Parks/Landscapes",
-    "comment_count": 1,
-    "title": "Stair railings dangerous",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "agency_sent_datetime": "2023-05-08T14:33:56+01:00",
-    "interface_used": "mobile"
-  },
-  {
-    "service_name": "Rubbish (refuse and recycling)",
-    "status": "open",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Abandoned bins",
-    "comment_count": 4,
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2023-04-26T11:58:37+01:00",
-    "service_request_id": 4488032,
-    "lat": "51.441463",
-    "requested_datetime": "2023-04-26T11:58:31+01:00",
-    "description": "Abandoned bins: Abandoned wheely bins, one green, one brown, no lids. People are filling them with rubbish. Please collect from alley next to no.90 crofton park road se41ae.",
-    "long": "-0.035122",
-    "service_code": "Rubbish (refuse and recycling)",
-    "updated_datetime": "2023-09-08T13:45:31+01:00",
-    "detail": "Abandoned wheely bins, one green, one brown, no lids. People are filling them with rubbish. Please collect from alley next to no.90 crofton park road se41ae."
-  },
-  {
-    "status": "open",
-    "service_name": "Parks & Green Spaces",
-    "comment_count": 3,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Dead Trees in Bellingham Green",
-    "agency_sent_datetime": "2023-03-18T19:48:14+00:00",
-    "media_url": "https://www.fixmystreet.com/photo/4329429.0.full.jpeg?75237c16",
-    "interface_used": "iOS",
-    "service_request_id": 4329429,
+    "long": "-0.008043",
     "service_code": "Parks & Green Spaces",
-    "updated_datetime": "2023-03-20T14:44:10+00:00",
-    "detail": "There are many, many dead and dying trees in Bellingham Green. What is causing this and is there a plan in place to remove & replace them? Thank you.",
-    "lat": "51.431397",
-    "long": "-0.024572",
-    "requested_datetime": "2023-03-18T19:48:13+00:00",
-    "description": "Dead Trees in Bellingham Green: There are many, many dead and dying trees in Bellingham Green. What is causing this and is there a plan in place to remove & replace them? Thank you."
-  },
-  {
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/4197257.0.full.jpeg?40a887ea",
-    "agency_sent_datetime": "2023-02-02T15:53:26+00:00",
-    "comment_count": 22,
-    "title": "Emergency access issues for old people's home/council home",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
-    "service_name": "Car Parking",
-    "long": "-0.011869",
-    "requested_datetime": "2023-02-02T15:53:24+00:00",
-    "description": "Emergency access issues for old people's home/council home: On Steele Road, off Campshill Road there is an old people's home (Linden Court) - SE13 6BS, opposite the back of Lewisham Homes' Chiddingstone - SE13 6QY.\n\nThere is a car park there, one side for those who access Linden Court (with permits) and one side for those in Chiddingstone.\n\nThere are number of issues resulting in people from Chiddingstone causing many issues with not following parking rules/a lack of clear marking from the Highways Agency/Lewisham Council.\n\n1) On the actual corner of the turn in to Steele Road a van and other cars, constantly park, meaning that the road left available is not wide enough for any cars to get through smoothly, let alone fire or ambulance services. This is absolutely crucial as there are multiple level blocks here and in the event of a fire, the emergency services will not be able to access. There is no double yellow lines here either - a simple solution would be to put double yellow lines on both side here - including on the pavement where some drivers think it's ok to park too - there are multiple wheelchair users in the area and they block that too.\n\n2) A BT van consistently parks, sticking out into the road on the Linden Court spaces, outside of the grid allocated, please serve notice on this van to respect the rules.\n\n3) Chiddingstone Resident/Visitor cars are now double-parking all along Steele Road, causing less access for the buildings, again, this is an issue for emergency access and for buses and vans to use Linden Court.\n\n4) Chiddingstone Resident/Visitor are now parking outside the front of Linden Court where there are no markings. this is blocking access again. Again, please mark this area clearly as no parking.\n\n5) Chiddingstone Resident/Visitor cars are not diagonally parking in the spaces, again causing less room for maneuvering around.\n\nPlease action a) the markings and b) provide warnings for both Chiddingstone Residents and Linden Court to respect the car park AND crucially please instruct your army of parking wardens who regularly hand out fines for Lewisham Park and are in the vicinity all the time, to work on Steele Road when you have found a solution. Thanks, from a worried visitor.",
-    "lat": "51.453966",
-    "updated_datetime": "2023-08-11T05:58:02+01:00",
-    "detail": "On Steele Road, off Campshill Road there is an old people's home (Linden Court) - SE13 6BS, opposite the back of Lewisham Homes' Chiddingstone - SE13 6QY.\n\nThere is a car park there, one side for those who access Linden Court (with permits) and one side for those in Chiddingstone.\n\nThere are number of issues resulting in people from Chiddingstone causing many issues with not following parking rules/a lack of clear marking from the Highways Agency/Lewisham Council.\n\n1) On the actual corner of the turn in to Steele Road a van and other cars, constantly park, meaning that the road left available is not wide enough for any cars to get through smoothly, let alone fire or ambulance services. This is absolutely crucial as there are multiple level blocks here and in the event of a fire, the emergency services will not be able to access. There is no double yellow lines here either - a simple solution would be to put double yellow lines on both side here - including on the pavement where some drivers think it's ok to park too - there are multiple wheelchair users in the area and they block that too.\n\n2) A BT van consistently parks, sticking out into the road on the Linden Court spaces, outside of the grid allocated, please serve notice on this van to respect the rules.\n\n3) Chiddingstone Resident/Visitor cars are now double-parking all along Steele Road, causing less access for the buildings, again, this is an issue for emergency access and for buses and vans to use Linden Court.\n\n4) Chiddingstone Resident/Visitor are now parking outside the front of Linden Court where there are no markings. this is blocking access again. Again, please mark this area clearly as no parking.\n\n5) Chiddingstone Resident/Visitor cars are not diagonally parking in the spaces, again causing less room for maneuvering around.\n\nPlease action a) the markings and b) provide warnings for both Chiddingstone Residents and Linden Court to respect the car park AND crucially please instruct your army of parking wardens who regularly hand out fines for Lewisham Park and are in the vicinity all the time, to work on Steele Road when you have found a solution. Thanks, from a worried visitor.",
-    "service_code": "Car Parking",
-    "service_request_id": 4197257
-  },
-  {
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2023-02-02T15:30:13+00:00",
-    "comment_count": 8,
-    "title": "2 x Commercial Low-loaders parked constantly on residential street",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
-    "service_name": "Roads/Highways",
-    "long": "-0.030928",
-    "description": "2 x Commercial Low-loaders parked constantly on residential street: Recently moved-in tenant to #11A or #11B Rubens Street, SE6. Has brought with them two commercial, 3,5 tonne low-loaders, been here for at least 3-4 months, if not more.\n\nConsistently parked outside on the residential street, taking up at least six (sometimes eight) car parking spaces in an area which has limited parking. Has effectively blocked off the lower part of the road.\n\nAlso, both low-loaders, whether parked on Rubens Street or Cameron Road are leaking diesel constantly, as evidenced by all the stains on the road.\n\nPlease do something, it is not a commercial business road, it is residential. If they want to run a business from the rented flat, please go to an area where it is acceptable.\n\nSILVER FORD DIESEL 3.5 TONNE - LD19 SVS SILVER FORD DIESEL 3.5 TONNE - EY51 ZSG\n\nPhotos available if needed.",
-    "requested_datetime": "2023-02-02T15:30:10+00:00",
-    "lat": "51.435744",
-    "detail": "Recently moved-in tenant to #11A or #11B Rubens Street, SE6. Has brought with them two commercial, 3,5 tonne low-loaders, been here for at least 3-4 months, if not more.\n\nConsistently parked outside on the residential street, taking up at least six (sometimes eight) car parking spaces in an area which has limited parking. Has effectively blocked off the lower part of the road.\n\nAlso, both low-loaders, whether parked on Rubens Street or Cameron Road are leaking diesel constantly, as evidenced by all the stains on the road.\n\nPlease do something, it is not a commercial business road, it is residential. If they want to run a business from the rented flat, please go to an area where it is acceptable.\n\nSILVER FORD DIESEL 3.5 TONNE - LD19 SVS SILVER FORD DIESEL 3.5 TONNE - EY51 ZSG\n\nPhotos available if needed.",
-    "updated_datetime": "2023-03-31T11:21:30+01:00",
-    "service_code": "Roads/Highways",
-    "service_request_id": 4197149
-  },
-  {
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/4078347.0.full.jpeg?397a757a",
-    "agency_sent_datetime": "2023-01-02T20:03:02+00:00",
-    "comment_count": 33,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Homeless person / fly-tipping",
-    "status": "open",
-    "service_name": "Fly-Tipping",
-    "long": "-0.012887",
-    "description": "Homeless person / fly-tipping: There is a homeless person who is sleeping here and Lewisham authorities have still not done anything to help them since it was first reported nearly two months ago.\n\nPlease help them find permanent/safe shelter and once you have, please secure the area as there are various fly-tips around this now which pose a fire risk.",
-    "requested_datetime": "2023-01-02T20:02:57+00:00",
-    "lat": "51.453951",
-    "detail": "There is a homeless person who is sleeping here and Lewisham authorities have still not done anything to help them since it was first reported nearly two months ago.\n\nPlease help them find permanent/safe shelter and once you have, please secure the area as there are various fly-tips around this now which pose a fire risk.",
-    "updated_datetime": "2023-08-11T06:00:01+01:00",
-    "service_code": "Fly-Tipping",
-    "service_request_id": 4078347
-  },
-  {
-    "service_request_id": 3903136,
-    "service_code": "Rubbish (refuse and recycling)",
-    "detail": "This has been reported multiple times and update says enforcement dealing with it. Nothing happens. This property has rats in the front garden. Please can it be sorted at last",
-    "updated_datetime": "2022-10-20T17:39:02+01:00",
-    "lat": "51.487436",
-    "long": "-0.04312",
-    "description": "157 Trundleys Road Rubbish and bins everywhere: This has been reported multiple times and update says enforcement dealing with it. Nothing happens. This property has rats in the front garden. Please can it be sorted at last",
-    "requested_datetime": "2022-10-20T17:17:23+01:00",
-    "status": "open",
-    "service_name": "Rubbish (refuse and recycling)",
-    "comment_count": 1,
-    "title": "157 Trundleys Road Rubbish and bins everywhere",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "agency_sent_datetime": "2022-10-20T17:17:24+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/3903136.0.full.jpeg?0344f4b0",
-    "interface_used": "mobile"
-  },
-  {
-    "service_request_id": 3897443,
-    "lat": "51.45491",
-    "description": "TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working: TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working\n\nReported to TfL as reference FMS 3876536 07/10/22.\n\nTfL has now closed the report saying \"Our team had investigated this for you and found that this doesn't fall under the responsibility of Transport for London and comes under the remit of the local borough.\"\n\nThis shelter has been in darkness since February 2022 despite various reports to them each time.\n\nLBL please pursue this and I am annoyed to be pushed between owners of the problem so please annotate that you either own this or have resolved directly with TfL who is going to fix the problem,. The shelter has a TfL ref number on it as you can see from the photographs and not a JC Decaux signage.\n\nFor avoidance of doubt it is this shelter:\n\nHttps://www.instantstreetview.com/@51.455179,0.017034,147.55h,0.32p,2.72z,J90pp1qTXG-_5OQv1YTxFw\n\nThank you",
-    "requested_datetime": "2022-10-18T11:48:23+01:00",
-    "long": "0.016526",
-    "service_code": "Street Lighting",
-    "detail": "TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working\n\nReported to TfL as reference FMS 3876536 07/10/22.\n\nTfL has now closed the report saying \"Our team had investigated this for you and found that this doesn't fall under the responsibility of Transport for London and comes under the remit of the local borough.\"\n\nThis shelter has been in darkness since February 2022 despite various reports to them each time.\n\nLBL please pursue this and I am annoyed to be pushed between owners of the problem so please annotate that you either own this or have resolved directly with TfL who is going to fix the problem,. The shelter has a TfL ref number on it as you can see from the photographs and not a JC Decaux signage.\n\nFor avoidance of doubt it is this shelter:\n\nHttps://www.instantstreetview.com/@51.455179,0.017034,147.55h,0.32p,2.72z,J90pp1qTXG-_5OQv1YTxFw\n\nThank you",
-    "updated_datetime": "2022-12-20T16:41:32+00:00",
-    "service_name": "Street Lighting",
-    "status": "open",
-    "title": "TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working",
-    "requestor_name": "Roger Corbett",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 6,
-    "media_url": "https://www.fixmystreet.com/photo/3897443.0.full.jpeg?27016ab6",
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2022-10-18T11:48:24+01:00"
-  },
-  {
-    "service_request_id": 3883514,
-    "lat": "51.435993",
-    "long": "-0.046349",
-    "requested_datetime": "2022-10-11T19:00:09+01:00",
-    "description": "Badly overgrown trees: All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being managed correctly, they need to be sorted out asap they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown, Also our road is being used as a rubbish tip because the trees conceal the rubbish being planted in them",
-    "service_code": "Tree",
-    "detail": "All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being managed correctly, they need to be sorted out asap they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown, Also our road is being used as a rubbish tip because the trees conceal the rubbish being planted in them",
-    "updated_datetime": "2023-03-30T12:04:53+01:00",
-    "status": "open",
-    "service_name": "Tree",
-    "comment_count": 3,
-    "title": "Badly overgrown trees",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "media_url": "https://www.fixmystreet.com/photo/3883514.0.full.jpeg?d4ad57c5",
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2022-10-11T19:00:10+01:00"
-  },
-  {
-    "status": "open",
-    "service_name": "Tree",
-    "comment_count": 5,
-    "title": "For the attention of the tree section manager",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "agency_sent_datetime": "2022-08-16T14:16:26+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/3758295.0.full.jpeg?99591720",
-    "interface_used": "desktop",
-    "service_request_id": 3758295,
-    "service_code": "Tree",
-    "updated_datetime": "2023-03-30T12:04:36+01:00",
-    "detail": "Please do not close this is for the attention of the tree section manager There is something wrong with these trees, All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being looked after correctly, they need to be sorted out as soon as possible they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown",
-    "lat": "51.435931",
-    "long": "-0.046275",
-    "requested_datetime": "2022-08-16T14:16:26+01:00",
-    "description": "For the attention of the tree section manager: Please do not close this is for the attention of the tree section manager There is something wrong with these trees, All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being looked after correctly, they need to be sorted out as soon as possible they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown"
-  },
-  {
-    "interface_used": "mobile",
-    "media_url": "https://www.fixmystreet.com/photo/3717600.0.full.jpeg?7df2be06",
-    "agency_sent_datetime": "2022-07-30T07:42:53+01:00",
-    "comment_count": 2,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Dangerous fence at Nesbit Close",
-    "status": "open",
-    "service_name": "Parks/Landscapes",
-    "long": "0.001774",
-    "requested_datetime": "2022-07-30T07:42:53+01:00",
-    "description": "Dangerous fence at Nesbit Close: There is a very dangerous wobbly fence on top of a large hill. The fence moves and is very close to homes below the hill. Non residents use the space in the fence as a short cut which damages the fence more making the gap bigger and wobbly. I originally reported this incident on 7th February 2022 to James however nothing has been done unfortunately and the fence continues to get weaker. The fence is now leaning back and is only a matter of time before it falls completely. Please can you advise. Many thanks",
-    "lat": "51.465471",
-    "detail": "There is a very dangerous wobbly fence on top of a large hill. The fence moves and is very close to homes below the hill. Non residents use the space in the fence as a short cut which damages the fence more making the gap bigger and wobbly. I originally reported this incident on 7th February 2022 to James however nothing has been done unfortunately and the fence continues to get weaker. The fence is now leaning back and is only a matter of time before it falls completely. Please can you advise. Many thanks",
-    "updated_datetime": "2022-08-07T07:32:29+01:00",
-    "service_code": "Parks/Landscapes",
-    "service_request_id": 3717600
-  },
-  {
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/3550551.0.full.jpeg?0e650820",
-    "agency_sent_datetime": "2022-05-25T13:13:28+01:00",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Manhole cover not seated properly and makes noises when run over",
-    "comment_count": 11,
-    "service_name": "Roads/Highways",
-    "status": "open",
-    "requested_datetime": "2022-05-25T13:13:28+01:00",
-    "description": "Manhole cover not seated properly and makes noises when run over: It has been over 4 months and the noise from the cars go on through the night. Please can this be fixed? Thank you",
-    "long": "0.019738",
-    "lat": "51.436076",
-    "updated_datetime": "2023-08-01T16:05:41+01:00",
-    "detail": "It has been over 4 months and the noise from the cars go on through the night. Please can this be fixed? Thank you",
-    "service_code": "Roads/Highways",
-    "service_request_id": 3550551
-  },
-  {
-    "media_url": "https://www.fixmystreet.com/photo/3496419.0.full.jpeg?c2146038",
-    "interface_used": "Android",
-    "agency_sent_datetime": "2022-05-02T16:47:34+01:00",
-    "service_name": "Lewisham Homes",
-    "status": "open",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "Eyesore untidy property",
-    "comment_count": 6,
-    "lat": "51.444108",
-    "description": "Eyesore untidy property: Hi there, apologies in advance if this type of report does not qualify for this channel. I'm not even sure if Lewisham deals with these types of issues (I've read that some councils do). Property 124, has a few untidy areas that need sorting. I've already reported fly-tipping at the front and here I'm reporting (1) an untidy terrace straight outside our bedroom window; and (2) an abandoned garden with blackberry aggressively spreading and overspilling into other properties/gardens. Again, apologies if this is not the right place to report such an issue. I do hope there's a chance that Lewisham council could encourage the owners to tidy up those areas. Thank you",
-    "requested_datetime": "2022-05-02T16:47:34+01:00",
-    "long": "-0.051344",
-    "service_code": "Lewisham Homes",
-    "updated_datetime": "2023-09-08T10:15:43+01:00",
-    "detail": "Hi there, apologies in advance if this type of report does not qualify for this channel. I'm not even sure if Lewisham deals with these types of issues (I've read that some councils do). Property 124, has a few untidy areas that need sorting. I've already reported fly-tipping at the front and here I'm reporting (1) an untidy terrace straight outside our bedroom window; and (2) an abandoned garden with blackberry aggressively spreading and overspilling into other properties/gardens. Again, apologies if this is not the right place to report such an issue. I do hope there's a chance that Lewisham council could encourage the owners to tidy up those areas. Thank you",
-    "service_request_id": 3496419
-  },
-  {
-    "service_name": "Fly-Tipping",
-    "status": "open",
-    "title": "Eyesore fly-tipping",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 2,
-    "agency_sent_datetime": "2022-05-02T16:35:58+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/3496380.0.full.jpeg?df1da08e",
-    "interface_used": "Android",
-    "service_request_id": 3496380,
-    "service_code": "Fly-Tipping",
-    "updated_datetime": "2022-09-22T14:31:01+01:00",
-    "detail": "Hi there, propert at 124 Devonshire road has had this pile of junk around their bins sitting there for over a year now. Please, it would be great if this could get sorted. Thanks you.\n\nP.s. The same property also has an eyesore dumping ground at the back terrace, and an overgrown garden that's spilling into other gardens - I'll add these separately.",
-    "lat": "51.444062",
-    "description": "Eyesore fly-tipping: Hi there, propert at 124 Devonshire road has had this pile of junk around their bins sitting there for over a year now. Please, it would be great if this could get sorted. Thanks you.\n\nP.s. The same property also has an eyesore dumping ground at the back terrace, and an overgrown garden that's spilling into other gardens - I'll add these separately.",
-    "requested_datetime": "2022-05-02T16:35:56+01:00",
-    "long": "-0.051559"
-  },
-  {
-    "interface_used": "mobile",
-    "agency_sent_datetime": "2022-01-17T17:20:23+00:00",
-    "title": "Graffiti",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "status": "open",
-    "service_name": "Graffiti",
-    "long": "-0.029555",
-    "requested_datetime": "2022-01-17T17:20:19+00:00",
-    "description": "Graffiti: My recent report on graffiti on buildings and shutters was responded to by Lewisham Council in that if I notified them of a particular building they would try to include that in their programe for cleaning due to not enough funding or staff to take on any large scale cleaning to clear it. It surely needs someone from LBC to look at the state of the High Street and come up with something more positive to clear the problem.\n\nWhat's happened to the CCTV cameras in the High Street. I'm sure the shop keepers can offer some help, it can't do their business much good trading in such a messy Street. The police must know the tags and the names/addresses of the people causing the damage Shops should not be allowed to sell spray paint or marker pens to under 21's.",
-    "lat": "51.481774",
-    "detail": "My recent report on graffiti on buildings and shutters was responded to by Lewisham Council in that if I notified them of a particular building they would try to include that in their programe for cleaning due to not enough funding or staff to take on any large scale cleaning to clear it. It surely needs someone from LBC to look at the state of the High Street and come up with something more positive to clear the problem.\n\nWhat's happened to the CCTV cameras in the High Street. I'm sure the shop keepers can offer some help, it can't do their business much good trading in such a messy Street. The police must know the tags and the names/addresses of the people causing the damage Shops should not be allowed to sell spray paint or marker pens to under 21's.",
-    "updated_datetime": "2022-01-17T17:20:23+00:00",
-    "service_code": "Graffiti",
-    "service_request_id": 3247684
-  },
-  {
-    "interface_used": "Android",
-    "media_url": "https://www.fixmystreet.com/photo/3036793.0.full.jpeg?a76d1ed3",
-    "agency_sent_datetime": "2021-10-01T19:09:27+01:00",
-    "title": "Mess at Lewisham Homes property",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 9,
-    "service_name": "Lewisham Homes",
-    "status": "open",
-    "requested_datetime": "2021-10-01T19:09:25+01:00",
-    "description": "Mess at Lewisham Homes property: Hello, An unknown substance has been poured/spilled out of a window belonging to a Lewisham Homes property (flat 5 Stephens Court, 82 Endwell Road). This mess is now down the wall below and over the windows of the two flats below.\n\nLewisham Homes do not manage the whole of Stephens Court. However, they do rent flat 5 from the owner to provide social housing. Please can you check this as my other report was rejected.\n\nPlease can you arrange for someone from Lewisham Homes to attend and clean this up. Thank you.",
-    "long": "-0.038682",
-    "lat": "51.465789",
-    "updated_datetime": "2022-10-11T21:40:19+01:00",
-    "detail": "Hello, An unknown substance has been poured/spilled out of a window belonging to a Lewisham Homes property (flat 5 Stephens Court, 82 Endwell Road). This mess is now down the wall below and over the windows of the two flats below.\n\nLewisham Homes do not manage the whole of Stephens Court. However, they do rent flat 5 from the owner to provide social housing. Please can you check this as my other report was rejected.\n\nPlease can you arrange for someone from Lewisham Homes to attend and clean this up. Thank you.",
-    "service_code": "Lewisham Homes",
-    "service_request_id": 3036793
-  },
-  {
-    "updated_datetime": "2022-08-30T15:04:46+01:00",
-    "detail": "This rubbish has continually been missed and is over spilling from 10 Verdant Lane, it appears that others are also leaving rubbish and recycling from the property also and it is both an eyesore and danger to pedestrians",
-    "service_code": "Rubbish (refuse and recycling)",
-    "description": "On going rubbish concerns, lack of collection: This rubbish has continually been missed and is over spilling from 10 Verdant Lane, it appears that others are also leaving rubbish and recycling from the property also and it is both an eyesore and danger to pedestrians",
-    "requested_datetime": "2021-09-27T15:58:49+01:00",
-    "long": "0.00368",
-    "lat": "51.443572",
-    "service_request_id": 3028042,
-    "agency_sent_datetime": "2021-09-27T15:58:51+01:00",
-    "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/3028042.0.full.jpeg?6b6ffdcb",
-    "title": "On going rubbish concerns, lack of collection",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 18,
-    "service_name": "Rubbish (refuse and recycling)",
+    "requested_datetime": "2023-08-20T11:50:16+01:00",
+    "agency_sent_datetime": "2023-08-20T11:50:18+01:00",
+    "updated_datetime": "2023-10-28T08:37:24+01:00",
+    "service_request_id": 4909162,
     "status": "open"
   },
   {
-    "service_request_id": 2986723,
-    "service_code": "Potholes",
-    "detail": "Who maintains this road if it isnt Council please? There is a council tip on the road LANDMANN WAY. please answer the question - You are negligent by ignoring these requests",
-    "updated_datetime": "2021-11-03T09:12:57+00:00",
-    "lat": "51.486276",
-    "long": "-0.044949",
-    "description": "20 inch potholes: Who maintains this road if it isnt Council please? There is a council tip on the road LANDMANN WAY. please answer the question - You are negligent by ignoring these requests",
-    "requested_datetime": "2021-09-08T07:50:53+01:00",
     "status": "open",
-    "service_name": "Potholes",
-    "comment_count": 4,
+    "service_request_id": 4843145,
+    "service_code": "Abandoned vehicles",
+    "service_name": "Abandoned vehicles",
+    "long": "-0.027324",
+    "updated_datetime": "2023-08-01T13:05:32+01:00",
+    "agency_sent_datetime": "2023-07-31T12:57:44+01:00",
+    "requested_datetime": "2023-07-31T12:57:39+01:00",
+    "comment_count": 1,
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "20 inch potholes",
-    "agency_sent_datetime": "2021-09-08T07:50:53+01:00",
-    "interface_used": "desktop"
+    "lat": "51.475778",
+    "detail": "Vehicle has been left for almost 1 year without moving and is taking up residential parking space. I have contacted council and housing association but still no response. Can this be dealt with as there is no parking space in the residential area.",
+    "interface_used": "mobile",
+    "title": "Vehicle has been left abadonded and taking up residential space. No owner to contact to remove. Spoke to housing association and no response as to removal of vehicle",
+    "description": "Vehicle has been left abadonded and taking up residential space. No owner to contact to remove. Spoke to housing association and no response as to removal of vehicle: Vehicle has been left for almost 1 year without moving and is taking up residential parking space. I have contacted council and housing association but still no response. Can this be dealt with as there is no parking space in the residential area.",
+    "media_url": "https://www.fixmystreet.com/photo/4843145.0.full.jpeg?a8d8bba7"
   },
   {
-    "agency_sent_datetime": "2021-09-07T08:54:21+01:00",
+    "interface_used": "mobile",
+    "detail": "Rubbish (cans/bottles etc) accumulating on shared cycle path/footpath/road that goes through the tunnel under the railway. Needs a good tidy up",
+    "comment_count": 3,
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.466139",
+    "media_url": "https://www.fixmystreet.com/photo/4781659.0.full.jpeg?7ae8481c",
+    "title": "Rubbish on cycle path",
+    "description": "Rubbish on cycle path: Rubbish (cans/bottles etc) accumulating on shared cycle path/footpath/road that goes through the tunnel under the railway. Needs a good tidy up",
+    "service_request_id": 4781659,
+    "status": "open",
+    "agency_sent_datetime": "2023-07-13T08:46:02+01:00",
+    "requested_datetime": "2023-07-13T08:45:56+01:00",
+    "updated_datetime": "2023-10-24T19:16:52+01:00",
+    "service_name": "Roads/Highways",
+    "long": "-0.015863",
+    "service_code": "Roads/Highways"
+  },
+  {
+    "agency_sent_datetime": "2023-07-06T09:17:34+01:00",
+    "requested_datetime": "2023-07-06T09:17:25+01:00",
+    "updated_datetime": "2023-10-28T08:40:11+01:00",
+    "long": "-0.009163",
+    "service_name": "Parks & Green Spaces",
+    "service_code": "Parks & Green Spaces",
+    "service_request_id": 4755632,
+    "status": "open",
+    "media_url": "https://www.fixmystreet.com/photo/4755632.0.full.jpeg?5f789ece",
+    "description": "Fitness equipment at Mountsfield Park needs repair: Fitness equipment at Mountsfield Park needs repair.",
+    "title": "Fitness equipment at Mountsfield Park needs repair",
+    "interface_used": "Android",
+    "detail": "Fitness equipment at Mountsfield Park needs repair.",
+    "requestor_name": "Friends of Mountsfield Park",
+    "comment_count": 2,
+    "lat": "51.44715",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    }
+  },
+  {
+    "detail": "Fitness equipment at Mountsfield Park needs repair",
+    "interface_used": "Android",
+    "lat": "51.447631",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 4,
+    "requestor_name": "Friends of Mountsfield Park",
+    "media_url": "https://www.fixmystreet.com/photo/4755567.0.full.jpeg?d9ed39db",
+    "title": "Fitness equipment at Mountsfield Park needs repair",
+    "description": "Fitness equipment at Mountsfield Park needs repair: Fitness equipment at Mountsfield Park needs repair",
+    "status": "open",
+    "service_request_id": 4755567,
+    "updated_datetime": "2023-10-28T08:38:49+01:00",
+    "agency_sent_datetime": "2023-07-06T09:06:22+01:00",
+    "requested_datetime": "2023-07-06T09:06:14+01:00",
+    "service_code": "Parks & Green Spaces",
+    "long": "-0.008884",
+    "service_name": "Parks & Green Spaces"
+  },
+  {
+    "comment_count": 13,
+    "lat": "51.436025",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
     "interface_used": "desktop",
-    "title": "Huge potholes causing damage to cars",
+    "detail": "The people who live next to the nursery on Perry Hill with the variety of vans and caravans (we believe it is number 133) have been parking a wide variety of vans in various states of disrepair on Perry Hill, Rutland Park etc for many months.\n\nThese are clearly being used for business purposes as on Sundays all of them are parked up and throughout the week any number of them are on the road.\n\nThey park them on corners of roads coming on to Perry Hill creating a hazard for turning out as you cannot see past them to see traffic coming in and out.\n\nThese are the same people who had various caravans on the road previously.\n\nPlease serve a removal notice to #133 and for any future vehicular ownership.\n\nIf they want to run a van dealership/transport business/scrap metal business then they need to secure an acceptable parking area for their fleet of vehicles.\n\nMore evidence below.",
+    "title": "Dumped/Obstructing/Commerical vehicles parked on road blocking turnings",
+    "description": "Dumped/Obstructing/Commerical vehicles parked on road blocking turnings: The people who live next to the nursery on Perry Hill with the variety of vans and caravans (we believe it is number 133) have been parking a wide variety of vans in various states of disrepair on Perry Hill, Rutland Park etc for many months.\n\nThese are clearly being used for business purposes as on Sundays all of them are parked up and throughout the week any number of them are on the road.\n\nThey park them on corners of roads coming on to Perry Hill creating a hazard for turning out as you cannot see past them to see traffic coming in and out.\n\nThese are the same people who had various caravans on the road previously.\n\nPlease serve a removal notice to #133 and for any future vehicular ownership.\n\nIf they want to run a van dealership/transport business/scrap metal business then they need to secure an acceptable parking area for their fleet of vehicles.\n\nMore evidence below.",
+    "media_url": "https://www.fixmystreet.com/photo/4731630.0.full.jpeg?2410504f",
+    "service_request_id": 4731630,
+    "status": "open",
+    "service_name": "Roads/Highways",
+    "long": "-0.034271",
+    "service_code": "Roads/Highways",
+    "requested_datetime": "2023-06-29T14:52:34+01:00",
+    "agency_sent_datetime": "2023-06-29T14:52:36+01:00",
+    "updated_datetime": "2023-08-11T05:57:00+01:00"
+  },
+  {
+    "status": "open",
+    "service_request_id": 4730769,
+    "updated_datetime": "2023-10-27T12:53:22+01:00",
+    "requested_datetime": "2023-06-29T11:58:30+01:00",
+    "agency_sent_datetime": "2023-06-29T11:58:41+01:00",
+    "service_code": "Car Parking",
+    "service_name": "Car Parking",
+    "long": "0.036954",
+    "detail": "This car and a couple more from the same household park on this bend making it blind for cars coming around the corner Ive seen a ambulance struggling get by. there is a sign which states no parking on that bend but the completely ignore and has been made aware of the danger he causing. A accident waiting to happen as he often parks one of his cars there.",
+    "interface_used": "mobile",
+    "lat": "51.427792",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 4,
+    "media_url": "https://www.fixmystreet.com/photo/4730769.0.full.jpeg?8fe019bc",
+    "description": "Dangerous parking: This car and a couple more from the same household park on this bend making it blind for cars coming around the corner Ive seen a ambulance struggling get by. there is a sign which states no parking on that bend but the completely ignore and has been made aware of the danger he causing. A accident waiting to happen as he often parks one of his cars there.",
+    "title": "Dangerous parking"
+  },
+  {
+    "service_name": "Abandoned vehicles",
+    "long": "-0.036653",
+    "service_code": "Abandoned vehicles",
+    "agency_sent_datetime": "2023-06-23T12:09:28+01:00",
+    "requested_datetime": "2023-06-23T12:09:23+01:00",
+    "updated_datetime": "2023-08-01T16:25:42+01:00",
+    "service_request_id": 4708226,
+    "status": "open",
+    "description": "3 vans abandoned on public car park: 3 vans, middle one is sorn, but no tax. All abandoned, one missing wheel or clamped, all need to be removed",
+    "title": "3 vans abandoned on public car park",
+    "media_url": "https://www.fixmystreet.com/photo/4708226.0.full.jpeg?2b0f322c",
+    "comment_count": 3,
+    "lat": "51.430912",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "interface_used": "Android",
+    "detail": "3 vans, middle one is sorn, but no tax. All abandoned, one missing wheel or clamped, all need to be removed"
+  },
+  {
+    "comment_count": 9,
+    "lat": "51.428691",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "detail": "Left full up by the bus stop - needs to be be collected/removed. Heath hazard due to flies etc. people are adding more rubbish to it - possible fly tipping",
+    "interface_used": "iOS",
+    "title": "Green recycling bin been left for 6/7 weeks",
+    "description": "Green recycling bin been left for 6/7 weeks: Left full up by the bus stop - needs to be be collected/removed. Heath hazard due to flies etc. people are adding more rubbish to it - possible fly tipping",
+    "status": "open",
+    "service_request_id": 4660192,
+    "service_code": "Fly-Tipping",
+    "service_name": "Fly-Tipping",
+    "long": "0.000364",
+    "updated_datetime": "2023-07-20T10:04:28+01:00",
+    "agency_sent_datetime": "2023-06-12T10:51:11+01:00",
+    "requested_datetime": "2023-06-12T10:51:04+01:00"
+  },
+  {
+    "interface_used": "mobile",
+    "detail": "The parking lines and signage are so ineffective that cars have been blocking the emergency access gates for years. This is a health and safety issue - please enforce the parking restrictions.",
+    "comment_count": 6,
+    "lat": "51.459313",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "media_url": "https://www.fixmystreet.com/photo/4626896.0.full.jpeg?af1268bf",
+    "description": "Emergency gates blocked: The parking lines and signage are so ineffective that cars have been blocking the emergency access gates for years. This is a health and safety issue - please enforce the parking restrictions.",
+    "title": "Emergency gates blocked",
+    "service_request_id": 4626896,
+    "status": "open",
+    "agency_sent_datetime": "2023-06-03T13:11:14+01:00",
+    "requested_datetime": "2023-06-03T13:11:07+01:00",
+    "updated_datetime": "2024-01-04T08:20:55+00:00",
+    "service_name": "Car Parking",
+    "long": "0.005504",
+    "service_code": "Car Parking"
+  },
+  {
+    "service_code": "Tree",
+    "service_name": "Tree",
+    "long": "-0.01835",
+    "updated_datetime": "2023-06-16T09:49:11+01:00",
+    "agency_sent_datetime": "2023-05-13T11:15:01+01:00",
+    "requested_datetime": "2023-05-13T11:14:57+01:00",
+    "status": "open",
+    "service_request_id": 4549242,
+    "title": "Weeds out of control around base of tree",
+    "description": "Weeds out of control around base of tree: Weeds have grown wild around this young tree and so risk of damage. needs clearing please.",
+    "lat": "51.468512",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 5,
+    "detail": "Weeds have grown wild around this young tree and so risk of damage. needs clearing please.",
+    "interface_used": "mobile"
+  },
+  {
+    "lat": "51.488831",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
     "comment_count": 1,
-    "service_name": "Potholes",
+    "interface_used": "mobile",
+    "detail": "Potentially dangerous and unsightly damage/wear and tear to raised podia, benches and Riverside wall along the Deptford Wharf/Deptford Strand frontage",
+    "description": "Damaged hard landscaping: Potentially dangerous and unsightly damage/wear and tear to raised podia, benches and Riverside wall along the Deptford Wharf/Deptford Strand frontage",
+    "title": "Damaged hard landscaping",
+    "media_url": "https://www.fixmystreet.com/photo/4528399.0.full.jpeg?d445d521",
+    "service_request_id": 4528399,
     "status": "open",
-    "updated_datetime": "2021-11-02T09:36:48+00:00",
-    "detail": "Pot holes been here for years - Dangerous to cyclists and cars",
-    "service_code": "Potholes",
-    "requested_datetime": "2021-09-07T08:54:15+01:00",
-    "description": "Huge potholes causing damage to cars: Pot holes been here for years - Dangerous to cyclists and cars",
-    "long": "-0.04518",
-    "lat": "51.48455",
-    "service_request_id": 2984253
+    "service_name": "Parks/Landscapes",
+    "long": "-0.029654",
+    "service_code": "Parks/Landscapes",
+    "requested_datetime": "2023-05-08T14:34:14+01:00",
+    "agency_sent_datetime": "2023-05-08T14:34:23+01:00",
+    "updated_datetime": "2023-07-03T17:07:18+01:00"
   },
   {
-    "lat": "51.46655",
-    "requested_datetime": "2021-09-01T17:42:04+01:00",
-    "description": "Unusable walkthrough: It is so overgrown it makes it difficult for some residents to now access. It needs pruning as a matter of urgency.",
-    "long": "0.009488",
     "service_code": "Parks/Landscapes",
-    "detail": "It is so overgrown it makes it difficult for some residents to now access. It needs pruning as a matter of urgency.",
-    "updated_datetime": "2021-09-01T17:42:04+01:00",
-    "service_request_id": 2972780,
-    "media_url": "https://www.fixmystreet.com/photo/2972780.0.full.jpeg?fb810e4f",
-    "interface_used": "mobile",
-    "agency_sent_datetime": "2021-09-01T17:42:04+01:00",
     "service_name": "Parks/Landscapes",
+    "long": "-0.031091",
+    "updated_datetime": "2023-07-03T17:07:42+01:00",
+    "requested_datetime": "2023-05-08T14:33:51+01:00",
+    "agency_sent_datetime": "2023-05-08T14:33:56+01:00",
     "status": "open",
+    "service_request_id": 4528358,
+    "title": "Stair railings dangerous",
+    "description": "Stair railings dangerous: Metal railings on the landscaped steps in Aragon Gardens have been damaged for years (and previously reported in 2020). Now the metal poles have been bent out of shape or snapped off resulting in sharp exposed metal.",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Unusable walkthrough"
+    "lat": "51.490701",
+    "comment_count": 1,
+    "detail": "Metal railings on the landscaped steps in Aragon Gardens have been damaged for years (and previously reported in 2020). Now the metal poles have been bent out of shape or snapped off resulting in sharp exposed metal.",
+    "interface_used": "mobile"
+  },
+  {
+    "interface_used": "desktop",
+    "detail": "Abandoned wheely bins, one green, one brown, no lids. People are filling them with rubbish. Please collect from alley next to no.90 crofton park road se41ae.",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.441463",
+    "comment_count": 4,
+    "title": "Abandoned bins",
+    "description": "Abandoned bins: Abandoned wheely bins, one green, one brown, no lids. People are filling them with rubbish. Please collect from alley next to no.90 crofton park road se41ae.",
+    "service_request_id": 4488032,
+    "status": "open",
+    "requested_datetime": "2023-04-26T11:58:31+01:00",
+    "agency_sent_datetime": "2023-04-26T11:58:37+01:00",
+    "updated_datetime": "2023-09-08T13:45:31+01:00",
+    "service_name": "Rubbish (refuse and recycling)",
+    "long": "-0.035122",
+    "service_code": "Rubbish (refuse and recycling)"
+  },
+  {
+    "media_url": "https://www.fixmystreet.com/photo/4329429.0.full.jpeg?75237c16",
+    "description": "Dead Trees in Bellingham Green: There are many, many dead and dying trees in Bellingham Green. What is causing this and is there a plan in place to remove & replace them? Thank you.",
+    "title": "Dead Trees in Bellingham Green",
+    "interface_used": "iOS",
+    "detail": "There are many, many dead and dying trees in Bellingham Green. What is causing this and is there a plan in place to remove & replace them? Thank you.",
+    "comment_count": 3,
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.431397",
+    "requested_datetime": "2023-03-18T19:48:13+00:00",
+    "agency_sent_datetime": "2023-03-18T19:48:14+00:00",
+    "updated_datetime": "2023-03-20T14:44:10+00:00",
+    "service_name": "Parks & Green Spaces",
+    "long": "-0.024572",
+    "service_code": "Parks & Green Spaces",
+    "service_request_id": 4329429,
+    "status": "open"
+  },
+  {
+    "comment_count": 22,
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.453966",
+    "detail": "On Steele Road, off Campshill Road there is an old people's home (Linden Court) - SE13 6BS, opposite the back of Lewisham Homes' Chiddingstone - SE13 6QY.\n\nThere is a car park there, one side for those who access Linden Court (with permits) and one side for those in Chiddingstone.\n\nThere are number of issues resulting in people from Chiddingstone causing many issues with not following parking rules/a lack of clear marking from the Highways Agency/Lewisham Council.\n\n1) On the actual corner of the turn in to Steele Road a van and other cars, constantly park, meaning that the road left available is not wide enough for any cars to get through smoothly, let alone fire or ambulance services. This is absolutely crucial as there are multiple level blocks here and in the event of a fire, the emergency services will not be able to access. There is no double yellow lines here either - a simple solution would be to put double yellow lines on both side here - including on the pavement where some drivers think it's ok to park too - there are multiple wheelchair users in the area and they block that too.\n\n2) A BT van consistently parks, sticking out into the road on the Linden Court spaces, outside of the grid allocated, please serve notice on this van to respect the rules.\n\n3) Chiddingstone Resident/Visitor cars are now double-parking all along Steele Road, causing less access for the buildings, again, this is an issue for emergency access and for buses and vans to use Linden Court.\n\n4) Chiddingstone Resident/Visitor are now parking outside the front of Linden Court where there are no markings. this is blocking access again. Again, please mark this area clearly as no parking.\n\n5) Chiddingstone Resident/Visitor cars are not diagonally parking in the spaces, again causing less room for maneuvering around.\n\nPlease action a) the markings and b) provide warnings for both Chiddingstone Residents and Linden Court to respect the car park AND crucially please instruct your army of parking wardens who regularly hand out fines for Lewisham Park and are in the vicinity all the time, to work on Steele Road when you have found a solution. Thanks, from a worried visitor.",
+    "interface_used": "desktop",
+    "description": "Emergency access issues for old people's home/council home: On Steele Road, off Campshill Road there is an old people's home (Linden Court) - SE13 6BS, opposite the back of Lewisham Homes' Chiddingstone - SE13 6QY.\n\nThere is a car park there, one side for those who access Linden Court (with permits) and one side for those in Chiddingstone.\n\nThere are number of issues resulting in people from Chiddingstone causing many issues with not following parking rules/a lack of clear marking from the Highways Agency/Lewisham Council.\n\n1) On the actual corner of the turn in to Steele Road a van and other cars, constantly park, meaning that the road left available is not wide enough for any cars to get through smoothly, let alone fire or ambulance services. This is absolutely crucial as there are multiple level blocks here and in the event of a fire, the emergency services will not be able to access. There is no double yellow lines here either - a simple solution would be to put double yellow lines on both side here - including on the pavement where some drivers think it's ok to park too - there are multiple wheelchair users in the area and they block that too.\n\n2) A BT van consistently parks, sticking out into the road on the Linden Court spaces, outside of the grid allocated, please serve notice on this van to respect the rules.\n\n3) Chiddingstone Resident/Visitor cars are now double-parking all along Steele Road, causing less access for the buildings, again, this is an issue for emergency access and for buses and vans to use Linden Court.\n\n4) Chiddingstone Resident/Visitor are now parking outside the front of Linden Court where there are no markings. this is blocking access again. Again, please mark this area clearly as no parking.\n\n5) Chiddingstone Resident/Visitor cars are not diagonally parking in the spaces, again causing less room for maneuvering around.\n\nPlease action a) the markings and b) provide warnings for both Chiddingstone Residents and Linden Court to respect the car park AND crucially please instruct your army of parking wardens who regularly hand out fines for Lewisham Park and are in the vicinity all the time, to work on Steele Road when you have found a solution. Thanks, from a worried visitor.",
+    "title": "Emergency access issues for old people's home/council home",
+    "media_url": "https://www.fixmystreet.com/photo/4197257.0.full.jpeg?40a887ea",
+    "status": "open",
+    "service_request_id": 4197257,
+    "service_code": "Car Parking",
+    "long": "-0.011869",
+    "service_name": "Car Parking",
+    "updated_datetime": "2023-08-11T05:58:02+01:00",
+    "requested_datetime": "2023-02-02T15:53:24+00:00",
+    "agency_sent_datetime": "2023-02-02T15:53:26+00:00"
+  },
+  {
+    "status": "open",
+    "service_request_id": 4197149,
+    "service_code": "Roads/Highways",
+    "service_name": "Roads/Highways",
+    "long": "-0.030928",
+    "updated_datetime": "2023-03-31T11:21:30+01:00",
+    "requested_datetime": "2023-02-02T15:30:10+00:00",
+    "agency_sent_datetime": "2023-02-02T15:30:13+00:00",
+    "lat": "51.435744",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 8,
+    "detail": "Recently moved-in tenant to #11A or #11B Rubens Street, SE6. Has brought with them two commercial, 3,5 tonne low-loaders, been here for at least 3-4 months, if not more.\n\nConsistently parked outside on the residential street, taking up at least six (sometimes eight) car parking spaces in an area which has limited parking. Has effectively blocked off the lower part of the road.\n\nAlso, both low-loaders, whether parked on Rubens Street or Cameron Road are leaking diesel constantly, as evidenced by all the stains on the road.\n\nPlease do something, it is not a commercial business road, it is residential. If they want to run a business from the rented flat, please go to an area where it is acceptable.\n\nSILVER FORD DIESEL 3.5 TONNE - LD19 SVS SILVER FORD DIESEL 3.5 TONNE - EY51 ZSG\n\nPhotos available if needed.",
+    "interface_used": "desktop",
+    "description": "2 x Commercial Low-loaders parked constantly on residential street: Recently moved-in tenant to #11A or #11B Rubens Street, SE6. Has brought with them two commercial, 3,5 tonne low-loaders, been here for at least 3-4 months, if not more.\n\nConsistently parked outside on the residential street, taking up at least six (sometimes eight) car parking spaces in an area which has limited parking. Has effectively blocked off the lower part of the road.\n\nAlso, both low-loaders, whether parked on Rubens Street or Cameron Road are leaking diesel constantly, as evidenced by all the stains on the road.\n\nPlease do something, it is not a commercial business road, it is residential. If they want to run a business from the rented flat, please go to an area where it is acceptable.\n\nSILVER FORD DIESEL 3.5 TONNE - LD19 SVS SILVER FORD DIESEL 3.5 TONNE - EY51 ZSG\n\nPhotos available if needed.",
+    "title": "2 x Commercial Low-loaders parked constantly on residential street"
+  },
+  {
+    "description": "Homeless person / fly-tipping: There is a homeless person who is sleeping here and Lewisham authorities have still not done anything to help them since it was first reported nearly two months ago.\n\nPlease help them find permanent/safe shelter and once you have, please secure the area as there are various fly-tips around this now which pose a fire risk.",
+    "title": "Homeless person / fly-tipping",
+    "media_url": "https://www.fixmystreet.com/photo/4078347.0.full.jpeg?397a757a",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.453951",
+    "comment_count": 33,
+    "interface_used": "desktop",
+    "detail": "There is a homeless person who is sleeping here and Lewisham authorities have still not done anything to help them since it was first reported nearly two months ago.\n\nPlease help them find permanent/safe shelter and once you have, please secure the area as there are various fly-tips around this now which pose a fire risk.",
+    "service_name": "Fly-Tipping",
+    "long": "-0.012887",
+    "service_code": "Fly-Tipping",
+    "requested_datetime": "2023-01-02T20:02:57+00:00",
+    "agency_sent_datetime": "2023-01-02T20:03:02+00:00",
+    "updated_datetime": "2023-08-11T06:00:01+01:00",
+    "service_request_id": 4078347,
+    "status": "open"
+  },
+  {
+    "media_url": "https://www.fixmystreet.com/photo/3903136.0.full.jpeg?0344f4b0",
+    "title": "157 Trundleys Road Rubbish and bins everywhere",
+    "description": "157 Trundleys Road Rubbish and bins everywhere: This has been reported multiple times and update says enforcement dealing with it. Nothing happens. This property has rats in the front garden. Please can it be sorted at last",
+    "interface_used": "mobile",
+    "detail": "This has been reported multiple times and update says enforcement dealing with it. Nothing happens. This property has rats in the front garden. Please can it be sorted at last",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.487436",
+    "comment_count": 1,
+    "requested_datetime": "2022-10-20T17:17:23+01:00",
+    "agency_sent_datetime": "2022-10-20T17:17:24+01:00",
+    "updated_datetime": "2022-10-20T17:39:02+01:00",
+    "long": "-0.04312",
+    "service_name": "Rubbish (refuse and recycling)",
+    "service_code": "Rubbish (refuse and recycling)",
+    "service_request_id": 3903136,
+    "status": "open"
+  },
+  {
+    "media_url": "https://www.fixmystreet.com/photo/3897443.0.full.jpeg?27016ab6",
+    "description": "TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working: TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working\n\nReported to TfL as reference FMS 3876536 07/10/22.\n\nTfL has now closed the report saying \"Our team had investigated this for you and found that this doesn't fall under the responsibility of Transport for London and comes under the remit of the local borough.\"\n\nThis shelter has been in darkness since February 2022 despite various reports to them each time.\n\nLBL please pursue this and I am annoyed to be pushed between owners of the problem so please annotate that you either own this or have resolved directly with TfL who is going to fix the problem,. The shelter has a TfL ref number on it as you can see from the photographs and not a JC Decaux signage.\n\nFor avoidance of doubt it is this shelter:\n\nHttps://www.instantstreetview.com/@51.455179,0.017034,147.55h,0.32p,2.72z,J90pp1qTXG-_5OQv1YTxFw\n\nThank you",
+    "title": "TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working",
+    "detail": "TfL says this is LBL to resolve : Shelter at bus stop X Cambridge Drive towards Lewisham : shelter roof lighting not working\n\nReported to TfL as reference FMS 3876536 07/10/22.\n\nTfL has now closed the report saying \"Our team had investigated this for you and found that this doesn't fall under the responsibility of Transport for London and comes under the remit of the local borough.\"\n\nThis shelter has been in darkness since February 2022 despite various reports to them each time.\n\nLBL please pursue this and I am annoyed to be pushed between owners of the problem so please annotate that you either own this or have resolved directly with TfL who is going to fix the problem,. The shelter has a TfL ref number on it as you can see from the photographs and not a JC Decaux signage.\n\nFor avoidance of doubt it is this shelter:\n\nHttps://www.instantstreetview.com/@51.455179,0.017034,147.55h,0.32p,2.72z,J90pp1qTXG-_5OQv1YTxFw\n\nThank you",
+    "interface_used": "desktop",
+    "lat": "51.45491",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 6,
+    "requestor_name": "Roger Corbett",
+    "updated_datetime": "2022-12-20T16:41:32+00:00",
+    "agency_sent_datetime": "2022-10-18T11:48:24+01:00",
+    "requested_datetime": "2022-10-18T11:48:23+01:00",
+    "service_code": "Street Lighting",
+    "service_name": "Street Lighting",
+    "long": "0.016526",
+    "status": "open",
+    "service_request_id": 3897443
+  },
+  {
+    "title": "Badly overgrown trees",
+    "description": "Badly overgrown trees: All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being managed correctly, they need to be sorted out asap they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown, Also our road is being used as a rubbish tip because the trees conceal the rubbish being planted in them",
+    "media_url": "https://www.fixmystreet.com/photo/3883514.0.full.jpeg?d4ad57c5",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.435993",
+    "comment_count": 3,
+    "interface_used": "desktop",
+    "detail": "All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being managed correctly, they need to be sorted out asap they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown, Also our road is being used as a rubbish tip because the trees conceal the rubbish being planted in them",
+    "long": "-0.046349",
+    "service_name": "Tree",
+    "service_code": "Tree",
+    "agency_sent_datetime": "2022-10-11T19:00:10+01:00",
+    "requested_datetime": "2022-10-11T19:00:09+01:00",
+    "updated_datetime": "2023-03-30T12:04:53+01:00",
+    "service_request_id": 3883514,
+    "status": "open"
+  },
+  {
+    "service_request_id": 3758295,
+    "status": "open",
+    "service_name": "Tree",
+    "long": "-0.046275",
+    "service_code": "Tree",
+    "requested_datetime": "2022-08-16T14:16:26+01:00",
+    "agency_sent_datetime": "2022-08-16T14:16:26+01:00",
+    "updated_datetime": "2023-03-30T12:04:36+01:00",
+    "comment_count": 5,
+    "lat": "51.435931",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "interface_used": "desktop",
+    "detail": "Please do not close this is for the attention of the tree section manager There is something wrong with these trees, All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being looked after correctly, they need to be sorted out as soon as possible they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown",
+    "title": "For the attention of the tree section manager",
+    "description": "For the attention of the tree section manager: Please do not close this is for the attention of the tree section manager There is something wrong with these trees, All the trees in Aylward are badly overgrown from the base the the crown, they never used to be like this years ago, So i can only conclude that they are not being looked after correctly, they need to be sorted out as soon as possible they are a big problem not only to the people who live in the road but also the people who are forced into the road because the trees are over grown all the way up the trunk from the ground to the crown",
+    "media_url": "https://www.fixmystreet.com/photo/3758295.0.full.jpeg?99591720"
+  },
+  {
+    "description": "Dangerous fence at Nesbit Close: There is a very dangerous wobbly fence on top of a large hill. The fence moves and is very close to homes below the hill. Non residents use the space in the fence as a short cut which damages the fence more making the gap bigger and wobbly. I originally reported this incident on 7th February 2022 to James however nothing has been done unfortunately and the fence continues to get weaker. The fence is now leaning back and is only a matter of time before it falls completely. Please can you advise. Many thanks",
+    "title": "Dangerous fence at Nesbit Close",
+    "media_url": "https://www.fixmystreet.com/photo/3717600.0.full.jpeg?7df2be06",
+    "comment_count": 2,
+    "lat": "51.465471",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "interface_used": "mobile",
+    "detail": "There is a very dangerous wobbly fence on top of a large hill. The fence moves and is very close to homes below the hill. Non residents use the space in the fence as a short cut which damages the fence more making the gap bigger and wobbly. I originally reported this incident on 7th February 2022 to James however nothing has been done unfortunately and the fence continues to get weaker. The fence is now leaning back and is only a matter of time before it falls completely. Please can you advise. Many thanks",
+    "service_name": "Parks/Landscapes",
+    "long": "0.001774",
+    "service_code": "Parks/Landscapes",
+    "agency_sent_datetime": "2022-07-30T07:42:53+01:00",
+    "requested_datetime": "2022-07-30T07:42:53+01:00",
+    "updated_datetime": "2022-08-07T07:32:29+01:00",
+    "service_request_id": 3717600,
+    "status": "open"
+  },
+  {
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.436076",
+    "comment_count": 11,
+    "interface_used": "desktop",
+    "detail": "It has been over 4 months and the noise from the cars go on through the night. Please can this be fixed? Thank you",
+    "description": "Manhole cover not seated properly and makes noises when run over: It has been over 4 months and the noise from the cars go on through the night. Please can this be fixed? Thank you",
+    "title": "Manhole cover not seated properly and makes noises when run over",
+    "media_url": "https://www.fixmystreet.com/photo/3550551.0.full.jpeg?0e650820",
+    "service_request_id": 3550551,
+    "status": "open",
+    "long": "0.019738",
+    "service_name": "Roads/Highways",
+    "service_code": "Roads/Highways",
+    "agency_sent_datetime": "2022-05-25T13:13:28+01:00",
+    "requested_datetime": "2022-05-25T13:13:28+01:00",
+    "updated_datetime": "2023-08-01T16:05:41+01:00"
+  },
+  {
+    "service_request_id": 3496419,
+    "status": "open",
+    "long": "-0.051344",
+    "service_name": "Lewisham Homes",
+    "service_code": "Lewisham Homes",
+    "requested_datetime": "2022-05-02T16:47:34+01:00",
+    "agency_sent_datetime": "2022-05-02T16:47:34+01:00",
+    "updated_datetime": "2023-09-08T10:15:43+01:00",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.444108",
+    "comment_count": 6,
+    "interface_used": "Android",
+    "detail": "Hi there, apologies in advance if this type of report does not qualify for this channel. I'm not even sure if Lewisham deals with these types of issues (I've read that some councils do). Property 124, has a few untidy areas that need sorting. I've already reported fly-tipping at the front and here I'm reporting (1) an untidy terrace straight outside our bedroom window; and (2) an abandoned garden with blackberry aggressively spreading and overspilling into other properties/gardens. Again, apologies if this is not the right place to report such an issue. I do hope there's a chance that Lewisham council could encourage the owners to tidy up those areas. Thank you",
+    "description": "Eyesore untidy property: Hi there, apologies in advance if this type of report does not qualify for this channel. I'm not even sure if Lewisham deals with these types of issues (I've read that some councils do). Property 124, has a few untidy areas that need sorting. I've already reported fly-tipping at the front and here I'm reporting (1) an untidy terrace straight outside our bedroom window; and (2) an abandoned garden with blackberry aggressively spreading and overspilling into other properties/gardens. Again, apologies if this is not the right place to report such an issue. I do hope there's a chance that Lewisham council could encourage the owners to tidy up those areas. Thank you",
+    "title": "Eyesore untidy property",
+    "media_url": "https://www.fixmystreet.com/photo/3496419.0.full.jpeg?c2146038"
+  },
+  {
+    "status": "open",
+    "service_request_id": 3496380,
+    "updated_datetime": "2022-09-22T14:31:01+01:00",
+    "agency_sent_datetime": "2022-05-02T16:35:58+01:00",
+    "requested_datetime": "2022-05-02T16:35:56+01:00",
+    "service_code": "Fly-Tipping",
+    "service_name": "Fly-Tipping",
+    "long": "-0.051559",
+    "detail": "Hi there, propert at 124 Devonshire road has had this pile of junk around their bins sitting there for over a year now. Please, it would be great if this could get sorted. Thanks you.\n\nP.s. The same property also has an eyesore dumping ground at the back terrace, and an overgrown garden that's spilling into other gardens - I'll add these separately.",
+    "interface_used": "Android",
+    "comment_count": 2,
+    "lat": "51.444062",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "media_url": "https://www.fixmystreet.com/photo/3496380.0.full.jpeg?df1da08e",
+    "title": "Eyesore fly-tipping",
+    "description": "Eyesore fly-tipping: Hi there, propert at 124 Devonshire road has had this pile of junk around their bins sitting there for over a year now. Please, it would be great if this could get sorted. Thanks you.\n\nP.s. The same property also has an eyesore dumping ground at the back terrace, and an overgrown garden that's spilling into other gardens - I'll add these separately."
+  },
+  {
+    "service_request_id": 3247684,
+    "status": "open",
+    "long": "-0.029555",
+    "service_name": "Graffiti",
+    "service_code": "Graffiti",
+    "requested_datetime": "2022-01-17T17:20:19+00:00",
+    "agency_sent_datetime": "2022-01-17T17:20:23+00:00",
+    "updated_datetime": "2022-01-17T17:20:23+00:00",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.481774",
+    "interface_used": "mobile",
+    "detail": "My recent report on graffiti on buildings and shutters was responded to by Lewisham Council in that if I notified them of a particular building they would try to include that in their programe for cleaning due to not enough funding or staff to take on any large scale cleaning to clear it. It surely needs someone from LBC to look at the state of the High Street and come up with something more positive to clear the problem.\n\nWhat's happened to the CCTV cameras in the High Street. I'm sure the shop keepers can offer some help, it can't do their business much good trading in such a messy Street. The police must know the tags and the names/addresses of the people causing the damage Shops should not be allowed to sell spray paint or marker pens to under 21's.",
+    "title": "Graffiti",
+    "description": "Graffiti: My recent report on graffiti on buildings and shutters was responded to by Lewisham Council in that if I notified them of a particular building they would try to include that in their programe for cleaning due to not enough funding or staff to take on any large scale cleaning to clear it. It surely needs someone from LBC to look at the state of the High Street and come up with something more positive to clear the problem.\n\nWhat's happened to the CCTV cameras in the High Street. I'm sure the shop keepers can offer some help, it can't do their business much good trading in such a messy Street. The police must know the tags and the names/addresses of the people causing the damage Shops should not be allowed to sell spray paint or marker pens to under 21's."
+  },
+  {
+    "media_url": "https://www.fixmystreet.com/photo/3036793.0.full.jpeg?a76d1ed3",
+    "description": "Mess at Lewisham Homes property: Hello, An unknown substance has been poured/spilled out of a window belonging to a Lewisham Homes property (flat 5 Stephens Court, 82 Endwell Road). This mess is now down the wall below and over the windows of the two flats below.\n\nLewisham Homes do not manage the whole of Stephens Court. However, they do rent flat 5 from the owner to provide social housing. Please can you check this as my other report was rejected.\n\nPlease can you arrange for someone from Lewisham Homes to attend and clean this up. Thank you.",
+    "title": "Mess at Lewisham Homes property",
+    "interface_used": "Android",
+    "detail": "Hello, An unknown substance has been poured/spilled out of a window belonging to a Lewisham Homes property (flat 5 Stephens Court, 82 Endwell Road). This mess is now down the wall below and over the windows of the two flats below.\n\nLewisham Homes do not manage the whole of Stephens Court. However, they do rent flat 5 from the owner to provide social housing. Please can you check this as my other report was rejected.\n\nPlease can you arrange for someone from Lewisham Homes to attend and clean this up. Thank you.",
+    "lat": "51.465789",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 9,
+    "agency_sent_datetime": "2021-10-01T19:09:27+01:00",
+    "requested_datetime": "2021-10-01T19:09:25+01:00",
+    "updated_datetime": "2022-10-11T21:40:19+01:00",
+    "long": "-0.038682",
+    "service_name": "Lewisham Homes",
+    "service_code": "Lewisham Homes",
+    "service_request_id": 3036793,
+    "status": "open"
+  },
+  {
+    "detail": "This rubbish has continually been missed and is over spilling from 10 Verdant Lane, it appears that others are also leaving rubbish and recycling from the property also and it is both an eyesore and danger to pedestrians",
+    "interface_used": "desktop",
+    "comment_count": 18,
+    "lat": "51.443572",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "media_url": "https://www.fixmystreet.com/photo/3028042.0.full.jpeg?6b6ffdcb",
+    "title": "On going rubbish concerns, lack of collection",
+    "description": "On going rubbish concerns, lack of collection: This rubbish has continually been missed and is over spilling from 10 Verdant Lane, it appears that others are also leaving rubbish and recycling from the property also and it is both an eyesore and danger to pedestrians",
+    "status": "open",
+    "service_request_id": 3028042,
+    "updated_datetime": "2022-08-30T15:04:46+01:00",
+    "agency_sent_datetime": "2021-09-27T15:58:51+01:00",
+    "requested_datetime": "2021-09-27T15:58:49+01:00",
+    "service_code": "Rubbish (refuse and recycling)",
+    "service_name": "Rubbish (refuse and recycling)",
+    "long": "0.00368"
+  },
+  {
+    "service_name": "Potholes",
+    "long": "-0.044949",
+    "service_code": "Potholes",
+    "agency_sent_datetime": "2021-09-08T07:50:53+01:00",
+    "requested_datetime": "2021-09-08T07:50:53+01:00",
+    "updated_datetime": "2021-11-03T09:12:57+00:00",
+    "service_request_id": 2986723,
+    "status": "open",
+    "description": "20 inch potholes: Who maintains this road if it isnt Council please? There is a council tip on the road LANDMANN WAY. please answer the question - You are negligent by ignoring these requests",
+    "title": "20 inch potholes",
+    "comment_count": 4,
+    "lat": "51.486276",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "interface_used": "desktop",
+    "detail": "Who maintains this road if it isnt Council please? There is a council tip on the road LANDMANN WAY. please answer the question - You are negligent by ignoring these requests"
+  },
+  {
+    "service_request_id": 2984253,
+    "status": "open",
+    "service_name": "Potholes",
+    "long": "-0.04518",
+    "service_code": "Potholes",
+    "agency_sent_datetime": "2021-09-07T08:54:21+01:00",
+    "requested_datetime": "2021-09-07T08:54:15+01:00",
+    "updated_datetime": "2021-11-02T09:36:48+00:00",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "lat": "51.48455",
+    "comment_count": 1,
+    "interface_used": "desktop",
+    "detail": "Pot holes been here for years - Dangerous to cyclists and cars",
+    "title": "Huge potholes causing damage to cars",
+    "description": "Huge potholes causing damage to cars: Pot holes been here for years - Dangerous to cyclists and cars"
+  },
+  {
+    "media_url": "https://www.fixmystreet.com/photo/2972780.0.full.jpeg?fb810e4f",
+    "title": "Unusable walkthrough",
+    "description": "Unusable walkthrough: It is so overgrown it makes it difficult for some residents to now access. It needs pruning as a matter of urgency.",
+    "interface_used": "mobile",
+    "detail": "It is so overgrown it makes it difficult for some residents to now access. It needs pruning as a matter of urgency.",
+    "lat": "51.46655",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "requested_datetime": "2021-09-01T17:42:04+01:00",
+    "agency_sent_datetime": "2021-09-01T17:42:04+01:00",
+    "updated_datetime": "2021-09-01T17:42:04+01:00",
+    "service_name": "Parks/Landscapes",
+    "long": "0.009488",
+    "service_code": "Parks/Landscapes",
+    "service_request_id": 2972780,
+    "status": "open"
   },
   {
     "service_name": "Parks/Landscapes",
+    "long": "-0.031616",
+    "service_code": "Parks/Landscapes",
+    "agency_sent_datetime": "2021-08-15T15:20:41+01:00",
+    "requested_datetime": "2021-08-15T15:20:40+01:00",
+    "updated_datetime": "2022-01-29T19:41:13+00:00",
+    "service_request_id": 2936692,
     "status": "open",
     "title": "Brick pillar on corner of St Margaret's Square knocked down",
+    "description": "Brick pillar on corner of St Margaret's Square knocked down: Last year a brick pillar on the western corner of St Margaret's Square fell down - perhaps it was hit by a vehicle. Someone has moved it from the middle of the pavement and into the hedge, which is nice, but the smashed up brickwork remains on its side. It's unsightly and needs rebuilding in line with the rules for the conservation area.",
+    "media_url": "https://www.fixmystreet.com/photo/2936692.0.full.jpeg?1b85ef1c",
+    "lat": "51.458934",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
     "comment_count": 3,
-    "agency_sent_datetime": "2021-08-15T15:20:41+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/2936692.0.full.jpeg?1b85ef1c",
     "interface_used": "desktop",
-    "service_request_id": 2936692,
-    "service_code": "Parks/Landscapes",
-    "detail": "Last year a brick pillar on the western corner of St Margaret's Square fell down - perhaps it was hit by a vehicle. Someone has moved it from the middle of the pavement and into the hedge, which is nice, but the smashed up brickwork remains on its side. It's unsightly and needs rebuilding in line with the rules for the conservation area.",
-    "updated_datetime": "2022-01-29T19:41:13+00:00",
-    "lat": "51.458934",
-    "description": "Brick pillar on corner of St Margaret's Square knocked down: Last year a brick pillar on the western corner of St Margaret's Square fell down - perhaps it was hit by a vehicle. Someone has moved it from the middle of the pavement and into the hedge, which is nice, but the smashed up brickwork remains on its side. It's unsightly and needs rebuilding in line with the rules for the conservation area.",
-    "requested_datetime": "2021-08-15T15:20:40+01:00",
-    "long": "-0.031616"
+    "detail": "Last year a brick pillar on the western corner of St Margaret's Square fell down - perhaps it was hit by a vehicle. Someone has moved it from the middle of the pavement and into the hedge, which is nice, but the smashed up brickwork remains on its side. It's unsightly and needs rebuilding in line with the rules for the conservation area."
   },
   {
-    "title": "Trees require trimming/ cutting back",
+    "interface_used": "desktop",
+    "detail": "Trees between Pincott Place and Hanford close dangerously overhanging properties and blocking sunlight.",
+    "lat": "51.461244",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
     "comment_count": 2,
-    "service_name": "Tree",
-    "status": "open",
-    "interface_used": "desktop",
-    "agency_sent_datetime": "2021-08-01T17:00:39+01:00",
-    "service_request_id": 2906366,
-    "requested_datetime": "2021-08-01T17:00:38+01:00",
     "description": "Trees require trimming/ cutting back: Trees between Pincott Place and Hanford close dangerously overhanging properties and blocking sunlight.",
-    "long": "-0.044917",
-    "lat": "51.461244",
+    "title": "Trees require trimming/ cutting back",
+    "service_request_id": 2906366,
+    "status": "open",
+    "agency_sent_datetime": "2021-08-01T17:00:39+01:00",
+    "requested_datetime": "2021-08-01T17:00:38+01:00",
     "updated_datetime": "2021-08-15T14:06:18+01:00",
-    "detail": "Trees between Pincott Place and Hanford close dangerously overhanging properties and blocking sunlight.",
+    "service_name": "Tree",
+    "long": "-0.044917",
     "service_code": "Tree"
   },
   {
-    "updated_datetime": "2021-06-28T15:49:02+01:00",
-    "detail": "The bridge over the River Quaggy is on the boundary of Bromley and Greenwich with Bromley being the highway authority for the bridge and to the east of the bridge. West of the bridge Lewisham is the highway authority, and north of the bridge Greenwich is the highway authority.\n\nShown in the picture is the shiny new 10T weight restriction sign installed at Bromley taxpayers' expense to the east of the bridge. There are no weight restriction signs to the north of the bridge (Greenwich) or to the west of the bridge (Lewisham).\n\nLewisham assert that the bridge now has a 40T weight limit (presumably believing it has been strengthened) and they gleaned this information from Bromley.\n\nEither Bromley has squandered taxpayers' money on the new sign or Lewisham has made a mistake in removing the 10T limit signs.\n\nTo further confuse matters, there is a second bridge over the River Quaggy this time on Mottingham Lane, again on the boundary of Bromley and Greenwich, but with Greenwich the highway authority. Could it be that this bridge has the 10T limit.\n\nWhatever the answer, this matter needs investigating as a matter of urgency, and the investigation should include liaising with Lewisham and Greenwich highway authorities to get to the bottom of this matter and ensuring that all three highway authorities display the correct signage for the bridge.",
-    "service_code": "Road Traffic Signs",
-    "long": "0.029312",
-    "description": "Bridge over the River Quaggy: The bridge over the River Quaggy is on the boundary of Bromley and Greenwich with Bromley being the highway authority for the bridge and to the east of the bridge. West of the bridge Lewisham is the highway authority, and north of the bridge Greenwich is the highway authority.\n\nShown in the picture is the shiny new 10T weight restriction sign installed at Bromley taxpayers' expense to the east of the bridge. There are no weight restriction signs to the north of the bridge (Greenwich) or to the west of the bridge (Lewisham).\n\nLewisham assert that the bridge now has a 40T weight limit (presumably believing it has been strengthened) and they gleaned this information from Bromley.\n\nEither Bromley has squandered taxpayers' money on the new sign or Lewisham has made a mistake in removing the 10T limit signs.\n\nTo further confuse matters, there is a second bridge over the River Quaggy this time on Mottingham Lane, again on the boundary of Bromley and Greenwich, but with Greenwich the highway authority. Could it be that this bridge has the 10T limit.\n\nWhatever the answer, this matter needs investigating as a matter of urgency, and the investigation should include liaising with Lewisham and Greenwich highway authorities to get to the bottom of this matter and ensuring that all three highway authorities display the correct signage for the bridge.",
-    "requested_datetime": "2021-06-28T15:48:56+01:00",
-    "lat": "51.441612",
-    "service_request_id": 2824386,
-    "agency_sent_datetime": "2021-06-28T15:49:02+01:00",
     "interface_used": "desktop",
-    "media_url": "https://www.fixmystreet.com/photo/2824386.0.full.jpeg?2d837a85",
+    "detail": "The bridge over the River Quaggy is on the boundary of Bromley and Greenwich with Bromley being the highway authority for the bridge and to the east of the bridge. West of the bridge Lewisham is the highway authority, and north of the bridge Greenwich is the highway authority.\n\nShown in the picture is the shiny new 10T weight restriction sign installed at Bromley taxpayers' expense to the east of the bridge. There are no weight restriction signs to the north of the bridge (Greenwich) or to the west of the bridge (Lewisham).\n\nLewisham assert that the bridge now has a 40T weight limit (presumably believing it has been strengthened) and they gleaned this information from Bromley.\n\nEither Bromley has squandered taxpayers' money on the new sign or Lewisham has made a mistake in removing the 10T limit signs.\n\nTo further confuse matters, there is a second bridge over the River Quaggy this time on Mottingham Lane, again on the boundary of Bromley and Greenwich, but with Greenwich the highway authority. Could it be that this bridge has the 10T limit.\n\nWhatever the answer, this matter needs investigating as a matter of urgency, and the investigation should include liaising with Lewisham and Greenwich highway authorities to get to the bottom of this matter and ensuring that all three highway authorities display the correct signage for the bridge.",
     "requestor_name": "Mr Tom Crispin",
+    "lat": "51.441612",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
+    "media_url": "https://www.fixmystreet.com/photo/2824386.0.full.jpeg?2d837a85",
+    "description": "Bridge over the River Quaggy: The bridge over the River Quaggy is on the boundary of Bromley and Greenwich with Bromley being the highway authority for the bridge and to the east of the bridge. West of the bridge Lewisham is the highway authority, and north of the bridge Greenwich is the highway authority.\n\nShown in the picture is the shiny new 10T weight restriction sign installed at Bromley taxpayers' expense to the east of the bridge. There are no weight restriction signs to the north of the bridge (Greenwich) or to the west of the bridge (Lewisham).\n\nLewisham assert that the bridge now has a 40T weight limit (presumably believing it has been strengthened) and they gleaned this information from Bromley.\n\nEither Bromley has squandered taxpayers' money on the new sign or Lewisham has made a mistake in removing the 10T limit signs.\n\nTo further confuse matters, there is a second bridge over the River Quaggy this time on Mottingham Lane, again on the boundary of Bromley and Greenwich, but with Greenwich the highway authority. Could it be that this bridge has the 10T limit.\n\nWhatever the answer, this matter needs investigating as a matter of urgency, and the investigation should include liaising with Lewisham and Greenwich highway authorities to get to the bottom of this matter and ensuring that all three highway authorities display the correct signage for the bridge.",
     "title": "Bridge over the River Quaggy",
+    "service_request_id": 2824386,
     "status": "open",
-    "service_name": "Road Traffic Signs"
+    "agency_sent_datetime": "2021-06-28T15:49:02+01:00",
+    "requested_datetime": "2021-06-28T15:48:56+01:00",
+    "updated_datetime": "2021-06-28T15:49:02+01:00",
+    "long": "0.029312",
+    "service_name": "Road Traffic Signs",
+    "service_code": "Road Traffic Signs"
   },
   {
-    "agency_sent_datetime": "2021-05-03T19:38:49+01:00",
-    "interface_used": "mobile",
-    "media_url": "https://www.fixmystreet.com/photo/2704502.0.full.jpeg?43b8562d",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
     "title": "Colony of pigeons in building toxic droppings everywhere",
-    "comment_count": 3,
-    "service_name": "Street Cleaning",
-    "status": "open",
-    "updated_datetime": "2021-06-28T21:14:06+01:00",
-    "detail": "Pigeons have moved into the empty corner shop roof. There is in excess of 30 birds and its increasing. There is large amounts of droppings on the floor surrounding the shop. Pigeon droppings are toxic. They are becoming a nuisance for the surrounding properties too as the population increases.",
-    "service_code": "Street Cleaning",
     "description": "Colony of pigeons in building toxic droppings everywhere: Pigeons have moved into the empty corner shop roof. There is in excess of 30 birds and its increasing. There is large amounts of droppings on the floor surrounding the shop. Pigeon droppings are toxic. They are becoming a nuisance for the surrounding properties too as the population increases.",
-    "requested_datetime": "2021-05-03T19:38:49+01:00",
-    "long": "-0.040476",
+    "media_url": "https://www.fixmystreet.com/photo/2704502.0.full.jpeg?43b8562d",
     "lat": "51.463937",
-    "service_request_id": 2704502
-  },
-  {
-    "media_url": "https://www.fixmystreet.com/photo/1984050.0.full.jpeg?10b93598",
-    "interface_used": "Web interface",
-    "agency_sent_datetime": "2020-02-07T10:01:13+00:00",
-    "service_name": "Graffiti",
-    "status": "open",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Developer’s hoarding covered in graffiti",
+    "comment_count": 3,
+    "interface_used": "mobile",
+    "detail": "Pigeons have moved into the empty corner shop roof. There is in excess of 30 birds and its increasing. There is large amounts of droppings on the floor surrounding the shop. Pigeon droppings are toxic. They are becoming a nuisance for the surrounding properties too as the population increases.",
+    "long": "-0.040476",
+    "service_name": "Street Cleaning",
+    "service_code": "Street Cleaning",
+    "requested_datetime": "2021-05-03T19:38:49+01:00",
+    "agency_sent_datetime": "2021-05-03T19:38:49+01:00",
+    "updated_datetime": "2021-06-28T21:14:06+01:00",
+    "service_request_id": 2704502,
+    "status": "open"
+  },
+  {
+    "service_request_id": 1984050,
+    "status": "open",
+    "agency_sent_datetime": "2020-02-07T10:01:13+00:00",
+    "requested_datetime": "2020-02-07T09:58:48+00:00",
+    "updated_datetime": "2020-08-17T19:15:02+01:00",
+    "long": "-0.010362",
+    "service_name": "Graffiti",
+    "service_code": "Graffiti",
+    "interface_used": "Web interface",
+    "detail": "Green Developer’s hoarding on Morden Lane is covered in graffiti, which has now spread to nearby private properties, and wall which is part of a conservation area. Developer is negligent in their maintenance of this; they erected it so should also maintain it in an acceptable condition. Currently it’s damaging the area’s environment and bringing anti-social behaviour/ crime here as a result.",
     "comment_count": 5,
     "lat": "51.470848",
-    "description": "Developer’s hoarding covered in graffiti: Green Developer’s hoarding on Morden Lane is covered in graffiti, which has now spread to nearby private properties, and wall which is part of a conservation area. Developer is negligent in their maintenance of this; they erected it so should also maintain it in an acceptable condition. Currently it’s damaging the area’s environment and bringing anti-social behaviour/ crime here as a result.",
-    "requested_datetime": "2020-02-07T09:58:48+00:00",
-    "long": "-0.010362",
-    "service_code": "Graffiti",
-    "updated_datetime": "2020-08-17T19:15:02+01:00",
-    "detail": "Green Developer’s hoarding on Morden Lane is covered in graffiti, which has now spread to nearby private properties, and wall which is part of a conservation area. Developer is negligent in their maintenance of this; they erected it so should also maintain it in an acceptable condition. Currently it’s damaging the area’s environment and bringing anti-social behaviour/ crime here as a result.",
-    "service_request_id": 1984050
-  },
-  {
-    "comment_count": 5,
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Fence already pulled down by gate onto public pavement but now is also pulled entirely away at the other end by the railway. Rubbish being thrown on to Site of Importance for Nature Conservation via this massive hole.",
-    "status": "open",
-    "service_name": "Roads/Highways",
-    "interface_used": "Web interface",
-    "media_url": "https://www.fixmystreet.com/photo/1853790.0.full.jpeg?d46e143f",
-    "agency_sent_datetime": "2019-11-19T19:20:06+00:00",
-    "service_request_id": 1853790,
-    "long": "-0.041122",
-    "description": "Fence already pulled down by gate onto public pavement but now is also pulled entirely away at the other end by the railway. Rubbish being thrown on to Site of Importance for Nature Conservation via this massive hole.: The sections of pulled down fence are huge now and various issues as a result - people can get on to the land and damage/vandalise the scout hut & SINC site all listed with Lewisham as assets of community value. Rubbish being dumped on the site and pathway obstructed with fencing.",
-    "requested_datetime": "2019-11-19T19:18:21+00:00",
-    "lat": "51.454742",
-    "detail": "The sections of pulled down fence are huge now and various issues as a result - people can get on to the land and damage/vandalise the scout hut & SINC site all listed with Lewisham as assets of community value. Rubbish being dumped on the site and pathway obstructed with fencing.",
-    "updated_datetime": "2020-02-14T12:02:03+00:00",
-    "service_code": "Roads/Highways"
+    "media_url": "https://www.fixmystreet.com/photo/1984050.0.full.jpeg?10b93598",
+    "description": "Developer’s hoarding covered in graffiti: Green Developer’s hoarding on Morden Lane is covered in graffiti, which has now spread to nearby private properties, and wall which is part of a conservation area. Developer is negligent in their maintenance of this; they erected it so should also maintain it in an acceptable condition. Currently it’s damaging the area’s environment and bringing anti-social behaviour/ crime here as a result.",
+    "title": "Developer’s hoarding covered in graffiti"
   },
   {
-    "service_request_id": 1603406,
-    "detail": "Lots of this in area. Really brings everyone down.",
-    "updated_datetime": "2019-05-13T09:29:15+01:00",
+    "service_request_id": 1853790,
+    "status": "open",
+    "agency_sent_datetime": "2019-11-19T19:20:06+00:00",
+    "requested_datetime": "2019-11-19T19:18:21+00:00",
+    "updated_datetime": "2020-02-14T12:02:03+00:00",
+    "service_name": "Roads/Highways",
+    "long": "-0.041122",
+    "service_code": "Roads/Highways",
+    "interface_used": "Web interface",
+    "detail": "The sections of pulled down fence are huge now and various issues as a result - people can get on to the land and damage/vandalise the scout hut & SINC site all listed with Lewisham as assets of community value. Rubbish being dumped on the site and pathway obstructed with fencing.",
+    "comment_count": 5,
+    "lat": "51.454742",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "media_url": "https://www.fixmystreet.com/photo/1853790.0.full.jpeg?d46e143f",
+    "description": "Fence already pulled down by gate onto public pavement but now is also pulled entirely away at the other end by the railway. Rubbish being thrown on to Site of Importance for Nature Conservation via this massive hole.: The sections of pulled down fence are huge now and various issues as a result - people can get on to the land and damage/vandalise the scout hut & SINC site all listed with Lewisham as assets of community value. Rubbish being dumped on the site and pathway obstructed with fencing.",
+    "title": "Fence already pulled down by gate onto public pavement but now is also pulled entirely away at the other end by the railway. Rubbish being thrown on to Site of Importance for Nature Conservation via this massive hole."
+  },
+  {
     "service_code": "Graffiti",
-    "description": "Graffiti -: Lots of this in area. Really brings everyone down.",
-    "requested_datetime": "2019-04-15T08:40:24+01:00",
+    "service_name": "Graffiti",
     "long": "-0.039301",
+    "updated_datetime": "2019-05-13T09:29:15+01:00",
+    "requested_datetime": "2019-04-15T08:40:24+01:00",
+    "agency_sent_datetime": "2019-04-15T08:45:04+01:00",
+    "status": "open",
+    "service_request_id": 1603406,
+    "title": "Graffiti -",
+    "description": "Graffiti -: Lots of this in area. Really brings everyone down.",
+    "media_url": "https://www.fixmystreet.com/photo/1603406.0.full.jpeg?6de7e6a7",
     "lat": "51.4755",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "title": "Graffiti -",
     "comment_count": 2,
-    "service_name": "Graffiti",
-    "status": "open",
-    "agency_sent_datetime": "2019-04-15T08:45:04+01:00",
-    "interface_used": "iOS",
-    "media_url": "https://www.fixmystreet.com/photo/1603406.0.full.jpeg?6de7e6a7"
+    "detail": "Lots of this in area. Really brings everyone down.",
+    "interface_used": "iOS"
   },
   {
-    "agency_sent_datetime": "2019-02-21T15:10:10+00:00",
-    "interface_used": "Android",
-    "media_url": "https://www.fixmystreet.com/photo/1551098.0.full.jpeg?7e0fff17",
     "comment_count": 2,
-    "title": "Large holes in footpath",
     "agency_responsible": {
       "recipient": [
         "Lewisham Borough Council"
       ]
     },
-    "status": "open",
-    "service_name": "Roads/Highways",
-    "detail": "Trip hazard with only a singe cone warning of hazard. Large hole in footpath.",
-    "updated_datetime": "2019-04-26T09:54:29+01:00",
-    "service_code": "Roads/Highways",
-    "long": "-0.015813",
-    "description": "Large holes in footpath: Trip hazard with only a singe cone warning of hazard. Large hole in footpath.",
-    "requested_datetime": "2019-02-21T15:09:12+00:00",
     "lat": "51.45287",
-    "service_request_id": 1551098
+    "detail": "Trip hazard with only a singe cone warning of hazard. Large hole in footpath.",
+    "interface_used": "Android",
+    "description": "Large holes in footpath: Trip hazard with only a singe cone warning of hazard. Large hole in footpath.",
+    "title": "Large holes in footpath",
+    "media_url": "https://www.fixmystreet.com/photo/1551098.0.full.jpeg?7e0fff17",
+    "status": "open",
+    "service_request_id": 1551098,
+    "service_code": "Roads/Highways",
+    "service_name": "Roads/Highways",
+    "long": "-0.015813",
+    "updated_datetime": "2019-04-26T09:54:29+01:00",
+    "requested_datetime": "2019-02-21T15:09:12+00:00",
+    "agency_sent_datetime": "2019-02-21T15:10:10+00:00"
   },
   {
-    "description": "Pothole: This pothole has been here for AGES. I reported a long time ago and it’s still not been fixed. It’s actually gotten bigger since I first reporter it and appears to be sinking. It sits next to what appears to be a water mains supply stopcock on the walkway in front of Lewisham Park Towers. It’s close to the front of the Kemsley block building.",
-    "requested_datetime": "2019-02-19T04:15:03+00:00",
-    "long": "-0.015935",
-    "lat": "51.452924",
-    "updated_datetime": "2019-02-19T10:16:09+00:00",
-    "detail": "This pothole has been here for AGES. I reported a long time ago and it’s still not been fixed. It’s actually gotten bigger since I first reporter it and appears to be sinking. It sits next to what appears to be a water mains supply stopcock on the walkway in front of Lewisham Park Towers. It’s close to the front of the Kemsley block building.",
-    "service_code": "Potholes",
-    "service_request_id": 1548341,
-    "interface_used": "iOS",
     "media_url": "https://www.fixmystreet.com/photo/1548341.0.full.jpeg?6f1cd6df",
-    "agency_sent_datetime": "2019-02-19T04:20:04+00:00",
-    "requestor_name": "Stephe Meloy",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
     "title": "Pothole",
-    "comment_count": 1,
-    "service_name": "Potholes",
-    "status": "open"
-  },
-  {
-    "requestor_name": "David Jesudason",
-    "title": "Graffiti",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "comment_count": 2,
-    "service_name": "Graffiti",
-    "status": "open",
+    "description": "Pothole: This pothole has been here for AGES. I reported a long time ago and it’s still not been fixed. It’s actually gotten bigger since I first reporter it and appears to be sinking. It sits next to what appears to be a water mains supply stopcock on the walkway in front of Lewisham Park Towers. It’s close to the front of the Kemsley block building.",
+    "detail": "This pothole has been here for AGES. I reported a long time ago and it’s still not been fixed. It’s actually gotten bigger since I first reporter it and appears to be sinking. It sits next to what appears to be a water mains supply stopcock on the walkway in front of Lewisham Park Towers. It’s close to the front of the Kemsley block building.",
     "interface_used": "iOS",
-    "media_url": "https://www.fixmystreet.com/photo/1332162.0.full.jpeg?1082df3d",
-    "agency_sent_datetime": "2018-06-06T11:35:04+01:00",
+    "lat": "51.452924",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 1,
+    "requestor_name": "Stephe Meloy",
+    "updated_datetime": "2019-02-19T10:16:09+00:00",
+    "requested_datetime": "2019-02-19T04:15:03+00:00",
+    "agency_sent_datetime": "2019-02-19T04:20:04+00:00",
+    "service_code": "Potholes",
+    "long": "-0.015935",
+    "service_name": "Potholes",
+    "status": "open",
+    "service_request_id": 1548341
+  },
+  {
+    "status": "open",
     "service_request_id": 1332162,
-    "description": "Graffiti: Five cases of vandalism on newly painted bridge over railway line",
-    "requested_datetime": "2018-06-06T11:34:20+01:00",
-    "long": "-0.040836",
-    "lat": "51.45481",
-    "detail": "Five cases of vandalism on newly painted bridge over railway line",
-    "updated_datetime": "2018-07-04T12:25:24+01:00",
-    "service_code": "Graffiti"
-  },
-  {
-    "agency_sent_datetime": "2017-06-20T12:25:47+01:00",
-    "media_url": "https://www.fixmystreet.com/photo/1057511.0.full.jpeg?713a768b",
-    "interface_used": "Web interface",
-    "status": "open",
-    "service_name": "Bin Repair",
-    "comment_count": 2,
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
-    "title": "1-47 Hazel Grove",
-    "service_code": "Bin Repair",
-    "updated_datetime": "2018-10-16T10:41:47+01:00",
-    "detail": "1-47 Hazel Grove Renew Wheel to chamberlain Bin",
-    "lat": "51.426067",
-    "long": "-0.046354",
-    "description": "1-47 Hazel Grove: 1-47 Hazel Grove Renew Wheel to chamberlain Bin",
-    "requested_datetime": "2017-06-20T12:23:17+01:00",
-    "service_request_id": 1057511
-  },
-  {
-    "agency_sent_datetime": "2016-11-15T08:20:22+00:00",
-    "interface_used": "Web interface",
-    "service_name": "Graffiti",
-    "status": "open",
-    "title": "Graffiti on side and rear of Amersham Arms pub",
-    "agency_responsible": {
-      "recipient": [
-        "Lewisham Borough Council"
-      ]
-    },
     "service_code": "Graffiti",
+    "long": "-0.040836",
+    "service_name": "Graffiti",
+    "updated_datetime": "2018-07-04T12:25:24+01:00",
+    "agency_sent_datetime": "2018-06-06T11:35:04+01:00",
+    "requested_datetime": "2018-06-06T11:34:20+01:00",
+    "lat": "51.45481",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "comment_count": 2,
+    "requestor_name": "David Jesudason",
+    "detail": "Five cases of vandalism on newly painted bridge over railway line",
+    "interface_used": "iOS",
+    "description": "Graffiti: Five cases of vandalism on newly painted bridge over railway line",
+    "title": "Graffiti",
+    "media_url": "https://www.fixmystreet.com/photo/1332162.0.full.jpeg?1082df3d"
+  },
+  {
+    "updated_datetime": "2018-10-16T10:41:47+01:00",
+    "requested_datetime": "2017-06-20T12:23:17+01:00",
+    "agency_sent_datetime": "2017-06-20T12:25:47+01:00",
+    "service_code": "Bin Repair",
+    "long": "-0.046354",
+    "service_name": "Bin Repair",
+    "status": "open",
+    "service_request_id": 1057511,
+    "media_url": "https://www.fixmystreet.com/photo/1057511.0.full.jpeg?713a768b",
+    "description": "1-47 Hazel Grove: 1-47 Hazel Grove Renew Wheel to chamberlain Bin",
+    "title": "1-47 Hazel Grove",
+    "detail": "1-47 Hazel Grove Renew Wheel to chamberlain Bin",
+    "interface_used": "Web interface",
+    "comment_count": 2,
+    "lat": "51.426067",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    }
+  },
+  {
+    "status": "open",
+    "service_request_id": 927194,
     "updated_datetime": "2016-11-15T08:20:22+00:00",
-    "detail": "Graffiti on side and rear of Amersham Arms pub",
-    "lat": "51.475541",
-    "description": "Graffiti on side and rear of Amersham Arms pub: Graffiti on side and rear of Amersham Arms pub",
     "requested_datetime": "2016-11-15T08:19:25+00:00",
+    "agency_sent_datetime": "2016-11-15T08:20:22+00:00",
+    "service_code": "Graffiti",
     "long": "-0.03261",
-    "service_request_id": 927194
+    "service_name": "Graffiti",
+    "detail": "Graffiti on side and rear of Amersham Arms pub",
+    "interface_used": "Web interface",
+    "lat": "51.475541",
+    "agency_responsible": {
+      "recipient": [
+        "Lewisham Borough Council"
+      ]
+    },
+    "title": "Graffiti on side and rear of Amersham Arms pub",
+    "description": "Graffiti on side and rear of Amersham Arms pub: Graffiti on side and rear of Amersham Arms pub"
   }
 ]
